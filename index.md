@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+# UCL Computer Science - Postgraduate Teaching Assistants (PGTAs) for 2022/23
+Process and guidance for CS or eligible IEP module in any term of the coming academic year that need Postgraduate Teaching Assistants (PGTA).
 
-You can use the [editor on GitHub](https://github.com/UCLComputerScience/pgta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+These can be Research Student Teaching Assistants (TAs) or Research Associates (RAs).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Information for Module Leaders
+### TLDR
+Module leads have to request PGTAs for 2022/23 at [TBC]()
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Steps
+#### 1) REQUESTING
+Module leads make requests for PGTA positions at [TBC]()by *DATE TBC* 2022, CoB for each of their module(s), even Term 2 and 3.
 
-```markdown
-Syntax highlighted code block
+It is no longer possible for Module Leads to nominate somebody for a position in this online form or in any other way. UCL recruitment rules have changed and require all posts to be advertised, sorry.
 
-# Header 1
-## Header 2
-### Header 3
+#### 2) BUDGETING
+Module leaders will hear back from Tobias directly if the request is approved or if adjustments are advised.
 
-- Bulleted
-- List
+#### 3) ADVERTISING
+Positions will directly be advertised online at [TBC]() for a period of no less than 15 work days. This URL will be circulated to all PhD students and RA and is publicly visible. You may share with those eligible.
 
-1. Numbered
-2. List
+#### 4) EXPRESSION OF INTEREST
+Candidates will express their interest by filling a form at [TBC]()saying which module they want to cover, for how many hours and optionally why.
 
-**Bold** and _Italic_ and `Code` text
+#### 5) SELECTION
+After 15 work days have passed, the module leader is emailed the list of applicants. 
 
-[Link](url) and ![Image](src)
-```
+We have three cases: if the number of hours the candidates have offered ..
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- matches the budget, the module leader just confirms and applicants will be made an offer.
 
-### Jekyll Themes
+- is less than the budget, the module leader confirms, applicants will be made an offer, and the remaining hours will be re-advertised.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UCLComputerScience/pgta/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- is more than the budget, the module leader has to make a choice and give a justification, following fairness rules of UCL hiring before we will make an offer.
 
-### Support or Contact
+#### 6) CONTRACTING
+Staffings will follow up with those applicants who were made an offer. No PGTA must work, ever, ever, ever, until the required documents have been provided to the Staffings Team, checked and approved.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contracts will only be started or amended after the following dates, changes requested between these dates will be held to the next date:
+
+TODO: Check the dates
+- For contracts starting in term 1: end August, end of reading week, end of January
+- For contracts starting in term 2: end November, end of reading week, week 1 of term 3 (i.e. after Easter)
+
+#### 7) MENTORING
+Module Leads are in charge of TAs and will need to mentor them as issues come up.
+
+### Process changes from prior years
+
+1. Under no circumstances should Module Leads contact applicants directly to appoint them to modules, without following the steps above.
+2. All employees, including PGTAs, must present their Right To Work (RTW) before the start of their contract and cannot commence work until the original has been verified. PGTAs will not be paid if they attempt to work before they have submitted their RTW. It is the Module Leaders responsibility to ensure that their PGTA has been properly recruited and should ensure all PGTA's work with CS HR to complete all right-to-work checks
+3. There is no timesheet system like Dovico anymore.
+4. Contracts will only be created or modified at the dates listed in step 6.
+
+### Q&A
+#### How much PGTA time can a module leader request?
+The department’s teaching depends on the support of excellent PGTAs, in particular for undergraduate courses. Please try to economize on this short and valuable resource.
+
+TODO: As a rule of thumb, 
+
+#### How many hours can a PGTA work?
+RAs are *contractually required* and Research students (PhD and EngD) are *strongly encouraged* to TA as part of their duties.
+
+PGTAs are employed as members of staff on short-term contracts. They cannot work more than 180 hours/year or 6 hours/week as per the Postgraduate Teaching Assistant Code of Practice.
+
+Their FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term dates, i.e. if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week period, however the PGTA may be required to work some of those hours, outside of term time in preparation for the module but their total work must not exceed their allocated hours. Any training, preparation and marking within the same term must be factored into the total hours allocation for the module.
+
+PGTAs who work across more than one term will have their FTE calculated separately for each term.
+
+#### How can I make a change to PGTA hours after they have been allocated?
+
+Changing PGTA hours once they have been allocated is to be avoided. If the budget is to be changed, the Module Lead (not the PGTA) has to inform Tobias first. Adjustments will be made if deemed necessary. Changes to FTE/contracts will be made twice a term only, typically just after reading week and at the end of term.
+
+#### How is excellent TA'ing recognised?
+
+The department will recognise excellent TA’ing by a *Teaching Assistant Award*, to be presented at the departmental summer party. A committee (HoD, Dept. Tutor and Graduate Tutor) will select three winners (awarded £250, each). To identify candidates, but also to understand what needs improvement, we will monitor i) the quality of a TAs work, as assessed both by module leads and by students in post-module surveys; ii) the quantity of teaching a TA performs; and iii) a TAs coverage of undergrad modules.
+
+TODO: PGTA's working on IEP modules, including IEP minors, may also be nominated for the IEP TA awards.
+
+### Contacts
+
+| Contact      | Email | Queries relating to...     |
+| :---        |    :----:   | :--- |
+| Tobias Ritschel | <t.ritschel@ucl.ac.uk> | Module leader requests. Budget. ML and PGTA application forms.  |
+| UCL CS HR | <computerscience.hr@ucl.ac.uk> | Contracts. Payroll. Right to work check. |
+| Sarah Sanders | <sarah.sanders@ucl.ac.uk> | Guidance and support to PGTAs for queries that fall outside of the above. |
+
+TODO: One of the suggestions was providing a person as point of help for PGTAs, not sure if this is useful or not. I wouldn't want to become a gateway for all PGTA email queries however I'd be happy to provide guidance or support if they aren't able to get this from their module lead.
+
