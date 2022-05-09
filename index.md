@@ -1,50 +1,58 @@
-# UCL Computer Science - Postgraduate Teaching Assistants (PGTAs) for 2022/23
+## UCL Computer Science - Postgraduate Teaching Assistants (PGTAs) for 2022/23
 Process and guidance for CS or eligible IEP module in any term of the coming academic year that need Postgraduate Teaching Assistants (PGTA).
 
 These can be Research Student Teaching Assistants (TAs) or Research Associates (RAs).
 
-## Information for Module Leaders
-### TLDR
-Module leads have to request PGTAs for 2022/23 at [TBC]()
+### Information for Module Leaders
+The steps are:
 
+1. REQUESTING
 
-### Steps
-#### 1) REQUESTING
-Module leads make requests for PGTA positions at [TBC]()by *DATE TBC* 2022, CoB for each of their module(s), even Term 2 and 3.
+    Module leads make requests for PGTA positions at [TBC]() by *DATE TBC* 2022, CoB for each of their module(s), even Term 2 and 3.
 
-It is no longer possible for Module Leads to nominate somebody for a position in this online form or in any other way. UCL recruitment rules have changed and require all posts to be advertised, sorry.
+    It is no longer possible for Module Leads to nominate somebody for a position in this online form or in any other way. UCL recruitment rules have changed and require all posts to be advertised, sorry.
 
-#### 2) BUDGETING
-Module leaders will hear back from Tobias directly if the request is approved or if adjustments are advised.
+2. BUDGETING
 
-#### 3) ADVERTISING
-Positions will directly be advertised online at [TBC]() for a period of no less than 15 work days. This URL will be circulated to all PhD students and RA and is publicly visible. You may share with those eligible.
+    Module leaders will hear back from Tobias directly if the request is approved or if adjustments are advised.
 
-#### 4) EXPRESSION OF INTEREST
-Candidates will express their interest by filling a form at [TBC]()saying which module they want to cover, for how many hours and optionally why.
+3. ADVERTISING
 
-#### 5) SELECTION
-After 15 work days have passed, the module leader is emailed the list of applicants. 
+    Positions will directly be advertised online at [TBC]() for a period of no less than 15 work days. This URL will be circulated to all PhD students and RA and is publicly visible. You may share with those eligible.
 
-We have three cases: if the number of hours the candidates have offered ..
+4. EXPRESSION OF INTEREST
 
-- matches the budget, the module leader just confirms and applicants will be made an offer.
+   Candidates will express their interest by filling a form at [TBC]()saying which module they want to cover, for how many hours and optionally why.
 
-- is less than the budget, the module leader confirms, applicants will be made an offer, and the remaining hours will be re-advertised.
+5. SELECTION
 
-- is more than the budget, the module leader has to make a choice and give a justification, following fairness rules of UCL hiring before we will make an offer.
+    After 15 work days have passed, the module leader is emailed the list of applicants. 
 
-#### 6) CONTRACTING
-Staffings will follow up with those applicants who were made an offer. No PGTA must work, ever, ever, ever, until the required documents have been provided to the Staffings Team, checked and approved.
+    We have three cases: if the number of hours the candidates have offered ..
 
-Contracts will only be started or amended after the following dates, changes requested between these dates will be held to the next date:
+   - ...matches the budget, the module leader just confirms and applicants will be made an offer.
+   - ...is less than the budget, the module leader confirms, applicants will be made an offer, and the remaining hours will be re-advertised.
+   - ...is more than the budget, the module leader has to make a choice and give a justification, following fairness rules of UCL hiring before we will make an offer.
 
-TODO: Check the dates
-- For contracts starting in term 1: end August, end of reading week, end of January
-- For contracts starting in term 2: end November, end of reading week, week 1 of term 3 (i.e. after Easter)
+6. CONTRACTING
 
-#### 7) MENTORING
-Module Leads are in charge of TAs and will need to mentor them as issues come up.
+    Staffings will follow up with those applicants who were made an offer. 
+    
+    No PGTA must work, ever, ever, ever, until the required documents have been provided to the Staffings Team, checked and approved.
+
+    Contracts will only be started or amended after the following dates, changes requested between these dates will be held to the next date:
+
+    TODO: Check the actual dates 
+    For contracts starting in term 1: end August, end of reading week, end of January
+    For contracts starting in term 2: end November, end of reading week, week 1 of term 3 (i.e. after Easter)
+
+7. MENTORING
+
+   Module Leads are in charge of TAs and will need to mentor them as issues come up.
+
+### Information for PhD PGTAs
+
+### Information for RA PGTAs
 
 ### Process changes from prior years
 
