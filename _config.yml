@@ -2,3 +2,22 @@ theme: jekyll-theme-minimal
 show_downloads: false
 title: UCL Computer Science PGTA info
 description: Process and guidance for CS or eligible IEP modules that need Postgraduate Teaching Assistants (PGTA).
+
+docs_list_title: PGTA information
+docs:
+
+- title: Home
+  url: index.html
+
+- title: Information for Module Leads
+  url: ml.html
+
+- title: Information for PGTAs (RA)
+  url: ra.html
+
+
+- title: Information for PGTAs (PhD)
+  url: phd.html
+
+- title: Contact
+  url: contact.html

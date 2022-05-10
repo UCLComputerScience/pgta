@@ -1,5 +1,9 @@
 <div class="link-wrapper">
     <style>
+        ul.link {
+            list-style-type: none;
+        }
+
         ul.link a {
             color: var(--clr-h1-and-bold);
             text-decoration: none;
@@ -13,9 +17,24 @@
             color: #267CB9;
             cursor: default;
         }
+
+        .result li.active a {
+            color: lightgray;
+            cursor: default;
+        }
+
     </style>
 
-    <ul class="link" style="list-style-type:none;">
+
+    <hr>
+    {% for item in site.data.samplelist.docs %}
+    <li class="{% if item.url == page.url %}active{% endif %}">
+        <a href="{{ item.url }}">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+    <hr>
+
+    <ul class="link">
         <li><a href="./index.html">Home</a></li>
         <li><a href="./ml.html">Information for Module Leads</a></li>
         <li><a href="./phd.html">Information for PGTAs (PhD)</a></li>
