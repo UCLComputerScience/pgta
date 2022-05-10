@@ -23,12 +23,13 @@
 
     <hr>
     <nav class="main-nav">
-  <ul>
-    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
-    <li><a href="/ml.html" {% if page.url == "/blog.html" %}class="active"{% endif %}>ML inf</a></li>
-  </ul>
-</nav>
+        <ul class="link">
+            <li><a href="./index.html" {% if page.url== "./index.html" %}class="active"{% endif %}>Home</a></li>
+            <li><a href="./ml.html" {% if page.url== "./ml.html" %}class="active"{% endif %}>ML inf</a></li>
+        </ul>
+    </nav>
     <hr>
+
     <nav class="main-nav">
         <ul class="link">
             <li><a href="./index.html">Home</a></li>
