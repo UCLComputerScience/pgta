@@ -9,16 +9,16 @@ docs_list_title: PGTA process documentation
 docs:
 
 - title: Information for module leads
-  url: ml.html
+  url: ./ml.html
 
 - title: Information for PGTAs (PhD)
-  url: phd.html
+  url: ./phd.html
 
 - title: Information for PGTAs (RA)
-  url: ra.html
+  url: ./ra.html
 
 - title: FAQ
-  url: faq.html
+  url: ./faq.html
 
 - title: Contacts
-  url: contact.html
+  url: ./contact.html
