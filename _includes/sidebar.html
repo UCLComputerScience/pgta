@@ -9,24 +9,14 @@
             color: var(--clr-a-text-hvr);
         }
 
-        ul link.active a {
-            color: lightgray;
+        ul link a:active {
+            color: #267CB9;
             cursor: default;
         }
     </style>
 
-    <!--
-    <h2>{{ site.data.samplelist.docs_list_title }}</h2>
-    <ul>
-        {% for item in site.data.samplelist.docs %}
-        <li class="{% if item.url == page.url %}active{% endif %}">
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
-    -->
-
     <ul class="link" style="list-style-type:none;">
+        <li><a href="./index.html">Home</a></li>
         <li><a href="./ml.html">Information for Module Leads</a></li>
         <li><a href="./phd.html">Information for PGTAs (PhD)</a></li>
         <li><a href="./ra.html">Information for PGTAs (RA)</a></li>
