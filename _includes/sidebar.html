@@ -18,30 +18,25 @@
             cursor: default;
         }
 
-        .result li.active a {
-            color: lightgray;
-            cursor: default;
-        }
-
     </style>
 
 
     <hr>
-    <ul class="link">
-        {% for item in site.data.samplelist.docs %}
-        <li class="{% if item.url == page.url %}active{% endif %}">
-            <a href="{{ item.url }}">{{ item.title }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+    <nav class="main-nav">
+  <ul>
+    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+    <li><a href="/ml.html" {% if page.url == "/blog.html" %}class="active"{% endif %}>ML inf</a></li>
+  </ul>
+</nav>
     <hr>
-
-    <ul class="link">
-        <li><a href="./index.html">Home</a></li>
-        <li><a href="./ml.html">Information for Module Leads</a></li>
-        <li><a href="./phd.html">Information for PGTAs (PhD)</a></li>
-        <li><a href="./ra.html">Information for PGTAs (RA)</a></li>
-        <li><a href="./faq.html">FAQ</a></li>
-        <li><a href="./contact.html">Contacts</a></li>
-    </ul>
+    <nav class="main-nav">
+        <ul class="link">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./ml.html">Information for Module Leads</a></li>
+            <li><a href="./phd.html">Information for PGTAs (PhD)</a></li>
+            <li><a href="./ra.html">Information for PGTAs (RA)</a></li>
+            <li><a href="./faq.html">FAQ</a></li>
+            <li><a href="./contact.html">Contacts</a></li>
+        </ul>
+    </nav>
 </div>

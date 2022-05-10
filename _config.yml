@@ -7,16 +7,16 @@ docs_list_title: PGTA information
 docs:
 
 - title: Home
-  url: index.html
+  url: ./index.html
 
 - title: Information for Module Leads
-  url: ml.html
+  url: ./ml.html
 
 - title: Information for PGTAs (RA)
-  url: ra.html
+  url: ./ra.html
 
 - title: Information for PGTAs (PhD)
-  url: phd.html
+  url: ./phd.html
 
 - title: Contact
-  url: contact.html
+  url: ./contact.html
