@@ -1,22 +1,11 @@
 ## FAQ
 
-### Process changes from prior years
-
-1. Under no circumstances should Module Leads contact applicants directly to appoint them to modules, without following
-   the steps above.
-2. All employees, including PGTAs, must present their Right To Work (RTW) before the start of their contract and cannot
-   commence work until the original has been verified. PGTAs will not be paid if they attempt to work before they have
-   submitted their RTW. It is the Module Leaders responsibility to ensure that their PGTA has been properly recruited
-   and should ensure all PGTA's work with CS HR to complete all right-to-work checks
-3. There is no timesheet system like Dovico anymore.
-4. Contracts will only be created or modified at the dates listed in step 6.
-
 ### How much PGTA time can a module leader request?
 
 The department’s teaching depends on the support of excellent PGTAs, in particular for undergraduate courses. Please try
 to economize on this short and valuable resource.
 
-TODO: As a rule of thumb,
+TODO: Should we add more detail about the amount of time allowed for marking, prep etc?
 
 ### How many hours can a PGTA work?
 
