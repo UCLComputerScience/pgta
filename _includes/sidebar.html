@@ -9,14 +9,13 @@
             text-decoration: none;
         }
 
-        ul.link a:hover, a:focus {
+        ul.link a:hover, a:focus, a:active {
             color: var(--clr-a-text-hvr);
         }
 
-        ul.link a:active {
+        /* ul.link a:active {
             color: #267CB9;
-            cursor: default;
-        }
+        } */
 
     </style>
 
@@ -24,8 +23,12 @@
     <hr>
     <nav class="main-nav">
         <ul class="link">
-            <li><a href="./index.html" {% if page.url== "./index.html" %}class="active"{% endif %}>Home</a></li>
-            <li><a href="./ml.html" {% if page.url== "./ml.html" %}class="active"{% endif %}>ML inf</a></li>
+            <li><a href="./index.html" {% if page.url == "./index.html" %}class="active"{% endif %}>Home</a></li>
+            <li><a href="./ml.html" {% if page.url == "./ml.html" %}class="active"{% endif %}>Information for Module Leads</a></li>
+            <li><a href="./phd.html" {% if page.url == "./phd.html" %}class="active"{% endif %}>Information for PGTAs (PhD)</a></li>
+            <li><a href="./ra.html" {% if page.url == "./ra.html" %}class="active"{% endif %}>Information for PGTAs (RA)</a></li>
+            <li><a href="./faq.html" {% if page.url == "./faq.html" %}class="active"{% endif %}>FAQ</a></li>
+            <li><a href="./contact.html" {% if page.url == "./contact.html" %}class="active"{% endif %}>Contacts</a></li>
         </ul>
     </nav>
     <hr>
