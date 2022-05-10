@@ -13,6 +13,11 @@ ul.link a {
 
 ul.link a:hover, a:focus, a:active {
     /* color: var(--clr-a-text-hvr); */
-    color: #727272;
+    /* color: #727272; */
     font-weight: bold;
 }
+
+ul.link a:active {
+    color: #727272;
+}
+
