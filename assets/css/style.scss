@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
 ul.link {
     list-style-type: none;
 }
@@ -15,5 +15,4 @@ ul.link a:hover, a:focus, a:active {
     /* color: var(--clr-a-text-hvr); */
     color: #727272;
     font-weight: bold;
-
 }
