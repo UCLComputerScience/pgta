@@ -1,11 +1,8 @@
-[Information for Module leads](./ml.html)
+## UCL Computer Science Postgraduate Teaching Assistants (PGTAs) for 2022/23
 
-[Information for PhD PGTAs](./phd.html)
+Process and guidance for CS or eligible IEP module in any term of the coming academic year that need Postgraduate
+Teaching Assistants (PGTA). 
 
-[Information for RA PGTAs](./ra.html)
-
-[FAQ](./faq.html)
-
-[Contacts](./contact.html)
+These can be Research Student Teaching Assistants (TAs) or Research Associates (RAs).
 
 
