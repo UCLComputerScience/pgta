@@ -1,8 +1,7 @@
 ---
 ---
-@import "main";
 
-
+@import "";
 ul.link {
     list-style-type: none;
 }
