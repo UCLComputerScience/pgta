@@ -68,10 +68,11 @@ Number of TAs: 4
 | Marking   |      0      | All marking done by Module Leader.                                   |
 | **Total** |   **50**    |           
 
-- 1 x TA required to maintain the bespoke auto-grading system = 20 hours. 
-- 2 x TA required to support labs
+Total number of TAs to support labs: 2
 
-- **Total requested:**
+1 x TA required to maintain the bespoke auto-grading system = 20 hours. 
+
+**Total requested:**
   - 1 x 20 = 20 hours
   - 2 x 50 = 100 hours
   - **= 220 hours**
