@@ -20,12 +20,12 @@ the tasks have been split into:
 
 ### Example 1: Undergraduate Y3 module with 100 students, labs, coursework and exam
 
-| Task            | Total hours | Calculated as...                                                     |
-|:----------------|:-----------:|:---------------------------------------------------------------------|
-| Teaching (labs) |     30      | 10 weeks, 1 x 2 hour lab per week = 20. Preparation = 50% x 20 = 10. |
-| Support         |      0      | Not required.                                                        |
-| Marking         |     50      | Each TA marks 1 coursework plus exam for 50 students so 50 * 1 hour. |
-| **Total**       |   **80**    | |
+| Task      | Total hours | Calculated as...                                                     |
+|:----------|:-----------:|:---------------------------------------------------------------------|
+| Teaching  |     30      | 10 weeks, 1 x 2 hour lab per week = 20. Preparation = 50% x 20 = 10. |
+| Support   |      0      | Not required.                                                        |
+| Marking   |     50      | Each TA marks 1 coursework plus exam for 50 students so 50 * 1 hour. |
+| **Total** |   **80**    | |
 
 Number of TAs: 2
 
@@ -35,12 +35,12 @@ Number of TAs: 2
 
 ### Example 2: Postgraduate module with 30 students, tutorial, coursework and exam marking
 
-|  Task               | Total hours | Calculated as...                                                         |
-|:--------------------|:-----------:|:-------------------------------------------------------------------------|
-| Teaching (tutorial) |     15      | 10 weeks, 1 x 1 hour tutorial per week = 10. Preparation = 50% x 10 = 5. |
-| Support             |      0      | Not required.                                                            |
-| Marking             |     30      | TA marks 1 coursework plus exam for 30 students so 30 * 1 hour.          |
-| **Total**           |   **45**    |                                                                          |
+| Task      | Total hours | Calculated as...                                                         |
+|:----------|:-----------:|:-------------------------------------------------------------------------|
+| Teaching  |     15      | 10 weeks, 1 x 1 hour tutorial per week = 10. Preparation = 50% x 10 = 5. |
+| Support   |      0      | Not required.                                                            |
+| Marking   |     30      | TA marks 1 coursework plus exam for 30 students so 30 * 1 hour.          |
+| **Total** |   **45**    |                                                                          |
 
 Number of TAs: 1
 
@@ -48,12 +48,12 @@ Number of TAs: 1
 
 ### Example 3: Undergraduate Y1 module with 200 students, 2 labs, 2 courseworks, and support
 
-|  Task               | Total hours | Calculated as...                                                                                         |
-|:--------------------|:-----------:|:---------------------------------------------------------------------------------------------------------|
-| Teaching (tutorial) |     27      | 9 weeks only (no tutorial in final week), 1 x 2 hour tutorial per week = 18. Preparation = 50% x 18 = 9. |
-| Support             |     10      | 1 hour per week on average over 10 weeks, Moodle queries.                                                |
-| Marking             |     50      | TA marks 1 coursework plus exam for 50 students so 50 * 1 hour.                                          |
-| **Total**           |   **87**    |                                                                                                          |
+| Task      | Total hours | Calculated as...                                                                                         |
+|:----------|:-----------:|:---------------------------------------------------------------------------------------------------------|
+| Teaching  |     27      | 9 weeks only (no tutorial in final week), 1 x 2 hour tutorial per week = 18. Preparation = 50% x 18 = 9. |
+| Support   |     10      | 1 hour per week on average over 10 weeks, Moodle queries.                                                |
+| Marking   |     50      | TA marks 1 coursework plus exam for 50 students so 50 * 1 hour.                                          |
+| **Total** |   **87**    |                                                                                                          |
 
 Number of TAs: 4
 
@@ -61,12 +61,12 @@ Number of TAs: 4
 
 ### Example 4: Undergraduate Y2 elective module with 100 students, 1 lab and system support
 
-|  Task               | Total hours | Calculated as...                                                     |
-|:--------------------|:-----------:|:---------------------------------------------------------------------|
-| Teaching (tutorial) |     30      | 10 weeks, 1 x 2 hour lab per week = 20. Preparation = 50% x 20 = 10. |
-| Support             |     20      | 2 hours per student drop in support sessions                         |
-| Marking             |      0      | All marking done by Module Leader.                                   |
-| **Total**           |   **50**    |           
+| Task      | Total hours | Calculated as...                                                     |
+|:----------|:-----------:|:---------------------------------------------------------------------|
+| Teaching  |     30      | 10 weeks, 1 x 2 hour lab per week = 20. Preparation = 50% x 20 = 10. |
+| Support   |     20      | 2 hours per student drop in support sessions                         |
+| Marking   |      0      | All marking done by Module Leader.                                   |
+| **Total** |   **50**    |           
 
 - 1 x TA required to maintain the bespoke auto-grading system = 20 hours. 
 - 2 x TA required to support labs
