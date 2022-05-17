@@ -1,10 +1,10 @@
-## How to calculate PGTA hours
+## How to calculate PGTA hours for a module
 
 The following provides some typical examples as guidance. Your module may differ from the examples.
 
-There is no change to previous years. This guidance is aimed at staff new to requesting TA hours.
+There is no change to previous years' guidance. This is aimed at staff new to requesting TA hours.
 
-You only enter the total hours and number of roles on the PGTA request form. However for the purposes of this guidance
+You only enter the total hours and number of roles on the PGTA request form. However, for the purposes of this guidance
 the tasks have been split into:
 
 - **Teaching**: labs, practicals
