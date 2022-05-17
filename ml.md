@@ -3,7 +3,7 @@
 ### TL;DR
 Module leads have to [request PGTAs for 2022/23](https://forms.gle/7hRqRzLpKm3XUZ966). **TODO: correct form link**
 
-[Guidance for calculating total PGTA hours if you need it]("./hours.html).
+[Guidance for calculating total PGTA hours if you need it]("/hours.html).
 
 ### Steps
 
