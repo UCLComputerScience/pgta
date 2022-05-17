@@ -34,6 +34,7 @@ Number of TAs: 2
 **TODO: is prep 50%?**
 
 ### Example 2: Postgraduate module with 30 students, tutorial, coursework and exam marking
+
 |  Task               | Total hours | Calculated as...                                                         |
 |:--------------------|:-----------:|:-------------------------------------------------------------------------|
 | Teaching (tutorial) |     15      | 10 weeks, 1 x 1 hour tutorial per week = 10. Preparation = 50% x 10 = 5. |
@@ -46,6 +47,7 @@ Number of TAs: 1
 **Total requested:  1 x 45 = 45 hours**
 
 ### Example 3: Undergraduate Y1 module with 200 students, 2 labs, 2 courseworks, and support
+
 |  Task               | Total hours | Calculated as...                                                                                         |
 |:--------------------|:-----------:|:---------------------------------------------------------------------------------------------------------|
 | Teaching (tutorial) |     27      | 9 weeks only (no tutorial in final week), 1 x 2 hour tutorial per week = 18. Preparation = 50% x 18 = 9. |
@@ -58,6 +60,7 @@ Number of TAs: 4
 **Total requested:  4 x 87 = 348 hours**
 
 ### Example 4: Undergraduate Y2 elective module with 100 students, 1 lab and system support
+
 |  Task               | Total hours | Calculated as...                                                     |
 |:--------------------|:-----------:|:---------------------------------------------------------------------|
 | Teaching (tutorial) |     30      | 10 weeks, 1 x 2 hour lab per week = 20. Preparation = 50% x 20 = 10. |
