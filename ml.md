@@ -1,9 +1,9 @@
 ## Information for Module Leaders
 
 ### TL;DR
-Module leads have to [request PGTAs for 2022/23](https://forms.gle/7hRqRzLpKm3XUZ966).
+Module leads have to [request PGTAs for 2022/23](https://forms.gle/7hRqRzLpKm3XUZ966). **TODO: correct form link**
 
-TODO: Correct the link to this year's form
+[Guidance for calculating total PGTA hours if you need it]("./hours.html).
 
 ### Steps
 

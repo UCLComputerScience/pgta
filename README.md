@@ -8,8 +8,6 @@ The site uses a modified version of the
 
 ## To edit an existing page
 
-
-
 Edit the markdown files in the root. 
 
 When you commit the change a GitHub Actions workflow runs that updates the web pages. 
