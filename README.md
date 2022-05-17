@@ -4,7 +4,9 @@
 
 All files are in the **gh_pages** branch.
 
-The site uses a modified version of the 
+The site uses a modified version of the [jekyll minimal theme](https://github.com/pages-themes/minimal).
+
+The pages are visible at <https://uclcomputerscience.github.io/pgta/>
 
 ## To edit an existing page
 
@@ -20,3 +22,5 @@ To add it to the sidebar menu then edit [/_includes/sidebar.html](./_includes/si
 
 As above, commit the change which will trigger the workflow to update the site.
 
+## To edit the theme
+Edit [_layouts/default.html](./_layouts/default.html)
