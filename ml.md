@@ -9,7 +9,7 @@ New module leads may wish to read the [guidance for calculating total PGTA hours
 
 #### 1. REQUESTING
 
-Module leads (ML) make requests for PGTA positions [here](https://forms.gle/X311EkXpwZkkgWwX7) by *DATE TBC* 2022, CoB for each of their module(s), even Term 2 and 3.
+Module leads (ML) make requests for PGTA positions [here](https://forms.gle/X311EkXpwZkkgWwX7) by 1/7/2022, CoB for each of their module(s), even Term 2 and 3.
 
 It is no longer possible for MLs to nominate somebody for a position in this online form or in any other way.
 UCL recruitment rules require all posts to be advertised.
