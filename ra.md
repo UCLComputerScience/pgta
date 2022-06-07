@@ -1,9 +1,9 @@
-## Information for PGTAs (RA)
+## Information for PGTAs - Research Associates (RA)
 
 ### TL;DR:
 
-All RAs are asked to contribute 40 hours of teaching to the [TA jobs listed here](https://tinyurl.com/dk4dzfmx0
-by [filling the form here](https://forms.gle/6Jnsu8v9Z3jc7ohWA].
+All RAs are asked to contribute 40 hours of teaching to the [TA jobs listed here](https://tinyurl.com/mm69m93w)
+by [filling the form here](https://forms.gle/DAMEZXiiwoX3nsJn9).
 
 ### Process steps
 
@@ -14,9 +14,10 @@ Matching TAs and modules proceeds as follows:
 
 #### 1) APPLY
 
-Check the [announced vacancies](https://tinyurl.com/dk4dzfmx). Vacancies will remain open for at least 15 days.
+Check the [announced vacancies](https://tinyurl.com/mm69m93w).
+Vacancies will remain open for at least 15 days.
 
-To apply, [please fill the form](https://forms.gle/6Jnsu8v9Z3jc7ohWA).
+To apply, [please fill the form](https://forms.gle/DAMEZXiiwoX3nsJn9).
 
 More info about each module see the [module catalgue](https://www.ucl.ac.uk/module-catalogue/).
 
