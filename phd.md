@@ -2,7 +2,7 @@
 
 ### TL;DR:
 
-All CS Research Students asked to contribute 40 hours to the [listed TA jobs](https://tinyurl.com/dk4dzfmx)
+All CS Research Students asked to contribute 40 hours to the [listed TA jobs]([https://tinyurl.com/dk4dzfmx](https://forms.gle/RZSDJfEy5A9AnPyn7))
 by [filling the form](https://forms.gle/6Jnsu8v9Z3jc7ohWA).
 
 ### Steps
@@ -17,7 +17,7 @@ Matching TAs and modules proceeds as follows:
 Check the [announced vacancies](https://tinyurl.com/dk4dzfmx).
 Vacancies will remain open for at least 15 days.
 
-To apply, please [complete the form](https://forms.gle/6Jnsu8v9Z3jc7ohWA).
+To apply, please [complete the form](https://forms.gle/RZSDJfEy5A9AnPyn7).
 
 More info about each module is available in the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
 
@@ -36,7 +36,8 @@ We (not the Module Lead) will inform you if your application was considered with
 
 You will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
 
-To start, please [fill the form](https://tinyurl.com/2twjreav).
+To start, you will need to fill a second [form](https://forms.gle/mi45XNWa8SHKc24B9).
+This needs only to be done once every year.
 
 You must in no circumstances work before the contract is completed and the Staffing Teams tells you to do so.
 
