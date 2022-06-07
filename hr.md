@@ -43,7 +43,7 @@ have been received before making payment.
 
 ### Changes to PGTA contract hours
 
-You should avoid changing PGTAs' hours once they have been allocated.
+Changing PGTA hours once they have been allocated is to be avoided.
 
 #### Decreases in FTE
 
@@ -54,8 +54,6 @@ necessary changes to the contract and avoid the PGTA being overpaid.
 
 Any increases to PGTA FTE allocation will be made once a term only at the end of the contract. The PGTA must inform
 staffing that they have been allocated more hours and this will be verified by the staffing team.
-
-**TODO**: Check this as increases also have to be agreed via Tobias for budget purposes.
 
 ### End of contract
 
