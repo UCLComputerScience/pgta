@@ -3,7 +3,7 @@
 ### Confirming appointments
 
 Under no circumstances should Module leads/supervisors contact PhDs directly to appointment them to modules, without
-first discussing with Tobias/Lewis and staffing.
+first discussing with Tobias Ritschel, the departmental tutor and CS HR staffing.
 
 ### Right to work
 
@@ -37,14 +37,16 @@ have been received before making payment.
 
 #### Decreases in FTE
 
-You should avoid changing PGTAs’ hours once they have been allocated. If a PGTA has their hours allocation reduced the
-staffing team must be informed immediately so they can make the necessary changes to the contract and avoid the PGTA
+You should avoid changing PGTAs' hours once they have been allocated. If a PGTA has their hours' allocation reduced the
+staffing team must be informed immediately, so they can make the necessary changes to the contract and avoid the PGTA
 being overpaid.
 
 #### Increases in FTE
 
 Any increases to PGTA FTE allocation will be made once a term only at the end of the contract. The PGTA must inform
 staffing that they have been allocated more hours and this will be verified by the staffing team.
+
+**TODO**: Check this as increases also have to be agreed via Tobias for budget purposes.
 
 ### End of contract
 
