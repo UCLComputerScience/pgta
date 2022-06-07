@@ -10,7 +10,10 @@ docs:
 - title: Home
   url: ./index.html
 
-- title: Information for Module Leads
+- title: HR information for MLs and PGTAs
+  url: ./ml.html
+
+- title: Information for Module Leads (ML)
   url: ./ml.html
 
 - title: Information for PGTAs (RA)
