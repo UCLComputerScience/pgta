@@ -17,9 +17,9 @@ Matching TAs and modules proceeds as follows:
 Check the [announced vacancies](https://tinyurl.com/dk4dzfmx).
 Vacancies will remain open for at least 15 days.
 
-To apply, please [complete the form](https://forms.gle/RZSDJfEy5A9AnPyn7).
+To apply, please complet the [application form](https://forms.gle/RZSDJfEy5A9AnPyn7).
 
-More info about each module is available in the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
+More info about each module is available at the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
 
 Each CS Research Student is being asked to contribute 40 hours total in each academic year to a COMP or IEP module.
 Undergraduate modules are a priority, and need your help the most, which is recognised by our *Teaching Assistant Award* (see below).
@@ -36,8 +36,8 @@ We (not the Module Lead) will inform you if your application was considered with
 
 You will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
 
-To start, you will need to fill a second [form](https://forms.gle/mi45XNWa8SHKc24B9).
-This needs only to be done once every year.
+To start, you will need to fill a separate second [form](https://forms.gle/mi45XNWa8SHKc24B9) with further details.
+This needs only to be done once by every individual TA per year.
 
 You must in no circumstances work before the contract is completed and the Staffing Teams tells you to do so.
 
