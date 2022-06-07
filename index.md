@@ -1,12 +1,12 @@
 ## UCL Computer Science Postgraduate Teaching Assistants (PGTAs) for 2022/23
 
+### Scope
 Process and guidance for Computer Science (CS) or eligible IEP modules, in any term of the coming academic year, that
 need Postgraduate Teaching Assistants (PGTA).
 
 PGTAs may be Research Students (PhD) or Research Associates (RA).
 
 ### Key dates
-
 |   Date   | Deadline                                                                                         |
 |:--------:|:-------------------------------------------------------------------------------------------------| 
 | 01/07/22 | Module leader request deadline (all terms)                                                       |
