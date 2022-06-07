@@ -10,9 +10,6 @@ docs:
 - title: Home
   url: ./index.html
 
-- title: HR information for MLs and PGTAs
-  url: ./ml.html
-
 - title: Information for Module Leads (ML)
   url: ./ml.html
 
@@ -24,6 +21,3 @@ docs:
 
 - title: Contact
   url: ./contact.html
-
-- title: How to calculate TA hours
-  url: ./hours.html
