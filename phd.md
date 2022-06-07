@@ -1,9 +1,6 @@
 ## Information for PGTAs (PhD candidates)
 
-### TL;DR:
-
-All CS Research Students asked to contribute 40 hours to the [listed TA jobs]([https://tinyurl.com/dk4dzfmx](https://forms.gle/RZSDJfEy5A9AnPyn7))
-by [filling the form](https://forms.gle/6Jnsu8v9Z3jc7ohWA).
+TL;DR: All CS Research Students asked to contribute 40 hours to the [listed TA jobs]([https://tinyurl.com/dk4dzfmx](https://forms.gle/RZSDJfEy5A9AnPyn7)) by [filling the form](https://forms.gle/6Jnsu8v9Z3jc7ohWA).
 
 ### Steps
 
@@ -12,7 +9,9 @@ You are expected to get involved and make things better for our younger Computer
 
 Matching TAs and modules proceeds as follows:
 
-#### 1) APPLY
+-----------
+
+#### 1) Apply
 
 Check the [announced vacancies](https://tinyurl.com/dk4dzfmx).
 Vacancies will remain open for at least 15 days.
@@ -25,51 +24,66 @@ Each CS Research Student is being asked to contribute 40 hours total in each aca
 Undergraduate modules are a priority, and need your help the most, which is recognised by our *Teaching Assistant Award* (see below).
 
 More than 40 hrs is great, but check with your PhD advisor.
-You cannot work more than 180 hours/year or 6 hours/week.
+PGTA cannot work more than 180 hours/year or 6 hours/week.
 For those on a Tier-4 visa, where it is an additional 20 hours/week limit.
 
-#### 2) GET AN OFFER
+#### 2) Get an offer
 
-We (not the Module Lead) will inform you if your application was considered within no more than 20 work days after the vacancy was published.
+We (not the Module Lead) will inform applicants if they were considered within no more than 20 work days after the vacancy was published.
 
-#### 3) CONTRACT
+#### 3) Get a contract
 
-You will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
+Applicants will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
 
-To start, you will need to fill a separate second [form](https://forms.gle/mi45XNWa8SHKc24B9) with further details.
-This needs only to be done once by every individual TA per year.
+To start, applicants will need to fill a separate second [form](https://forms.gle/mi45XNWa8SHKc24B9) with further details.
+This needs only to be done once by every individual applicant per year.
 
-You must in no circumstances work before the contract is completed and the Staffing Teams tells you to do so.
+PGTA Applicants must present their Right To Work (RTW) before the start of their contract and cannot commence work until the original has been verified.
 
-#### 4) QUALIFY
-
-You are required to attend (attendance recorded!)
+#### 4) Qualify
+PGTA are required to attend (attendance recorded!)
 
 i) a three-hour Arena One Introductory Gateway Workshop [schedule and registration](http://www.ucl.ac.uk/arena/one).
 - Attendees will be paid at the standard hourly rate. 
 - You can TA before attending the Arena One Workshop.
 Simply just attend that at the earliest available date this year.
-- You only need to do this once ever.
+- This only needs to be done once, ever.
 
 ii) the Intro to CS TA'ing session that will take place virtually at a date TBA.
 
-### PROCESS CHANGES
+-----------
 
+### What is not permissible
 Under no circumstances should Module Leads contact applicants or vice versa directly to appoint them to modules, without
 following the steps above.
 
-All employees, including PGTAs, must present their Right To Work (RTW) before the start of their contract and cannot commence work until the original has been verified.
-PGTAs will not be paid if they attempt to work before they have submitted their RTW.
+PGTA applicants will not be paid if they attempt to work before they have submitted their RTW.
 
-There is no timesheet system like Dovico anymore.
+Also, PGTA must in no circumstances work before the contract is completed and the Staffing Teams tells you to do so.
 
-### PAY AND CONTRACT
+### Contract changes
+Changing PGTA hours once they have been allocated is to be avoided.
 
+If PGTA have their hours' allocation reduced, the Staffing team must be informed immediately, so they can make the necessary changes to the contract and avoid the PGTA being overpaid.
+
+Any increases to PGTA FTE allocation will be made once a term only at the end of the contract.
+The PGTA must inform Tobias that they have been allocated more hours who will pick this up with Staffings.
+
+### Payment
 The compensation is £18.4/h and £22.84/h for lead positions on Y1/Y2 modules.
 The contract will run across the entire academic year, with pro-rata monthly payments.
 You also benefit from annual leave paid as a lump sum at the end of your studies.
 For more information on the conditions, [see here](http://www.ucl.ac.uk/hr/docs/post_grad_ta_scheme.php).
 
+The TA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term dates. i.e. if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week period, however the PGTA may be required to work some of those hours, outside of term time in preparation for the module but their total work must not exceed their allocated hours.
+
+PGTAs who work across more than one term will have their FTE calculated from separately for each term.
+
+A PGTA will remain on our records at the end of their working period on 0%FTE, unless a resignation form is submitted.
+
+There is no timesheet system like Dovico anymore.
+
+### RECOGNITION
 We award three prizes of £250 each to our best TAs, and a further four prizes of £50 each for honorable mentions.
 These prizes aim to recognise those who have made an exceptional contribution to our teaching provision - by contributing a significant number of hours, mostly in support of our UG modules where need is higher, and receiving praises for their engagement and teaching quality by Module Leads.
 To identify candidates, but also to understand what needs improvement, we will monitor
