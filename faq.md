@@ -9,7 +9,7 @@ TODO: Should we add more detail about the amount of time allowed for marking, pr
 
 ### How many hours can a PGTA work?
 
-RAs are *contractually required* and Research students (PhD and EngD) are *strongly encouraged* to TA as part of their
+Research Associates (RA) are *contractually required* and Research students (PhD and EngD) are *strongly encouraged* to TA as part of their
 duties.
 
 PGTAs are employed as members of staff on short-term contracts. They cannot work more than 180 hours/year or 6
