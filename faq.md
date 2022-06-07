@@ -4,16 +4,19 @@
 
 The department’s teaching depends on the support of excellent PGTAs, in particular for undergraduate courses. Please try
 to economize on this short and valuable resource.
+A guideline is found [here](https://github.com/UCLComputerScience/pgta/blob/gh-pages/hours.html).
 
-TODO: Should we add more detail about the amount of time allowed for marking, prep etc?
+### How many hours should I work as PGTA?
 
-### How many hours can a PGTA work?
+As Research Associates (RA), you are *contractually required* to do contribute 40 hours.
 
-Research Associates (RA) are *contractually required* and Research students (PhD and EngD) are *strongly encouraged* to TA as part of their
-duties.
+All Research students (PhD and EngD) are *strongly encouraged* to TA as part of their duties.
 
-PGTAs are employed as members of staff on short-term contracts. They cannot work more than 180 hours/year or 6
-hours/week as per the Postgraduate Teaching Assistant Code of Practice.
+### How many can a PGTA work?
+
+PGTAs are employed as members of staff on short-term contracts.
+
+They cannot work more than 180 hours/year or 6 hours/week as per the Postgraduate Teaching Assistant Code of Practice.
 
 Their FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term
 dates, i.e. if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week
@@ -28,6 +31,10 @@ PGTAs who work across more than one term will have their FTE calculated separate
 Changing PGTA hours once they have been allocated is to be avoided. If the budget is to be changed, the Module Lead (not
 the PGTA) has to inform Tobias first. Adjustments will be made if deemed necessary. Changes to FTE/contracts will be
 made twice a term only, typically just after reading week and at the end of term.
+
+### Is there two kind of RAs?
+yes, there is Research Associates and (more rare) Research Assistants.
+The latter typically are also Research Students, and they should follow the guidelines stated for these.
 
 ### How is excellent TA'ing recognised?
 
