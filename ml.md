@@ -21,13 +21,11 @@ MLs will hear back from Tobias directly if the request is approved or if adjustm
 #### 3. ADVERTISING
 
 Positions will directly be advertised online [here](https://tinyurl.com/mm69m93w) for a period of no less than 15 work days.
-This URL will be circulated to all PhD students and RA and is publicly visible. You may share with those eligible.
+This URL will be circulated to all PhD students and RA and is publicly visible.
+MLs may share with those eligible, also outside UCL.
+Candidates can express their interest by filling a [form](https://forms.gle/vqfNfGuxjxzaK9no6), stating which module they want to cover, for how many hours and optionally why.
 
-#### 4. EXPRESSION OF INTEREST
-
-Candidates will express their interest by filling a [form](https://forms.gle/vqfNfGuxjxzaK9no6), stating which module they want to cover, for how many hours and optionally why.
-
-#### 5. SELECTION
+#### 4. SELECTION
 
 After 15 work days have passed, the ML is emailed the list of applicants.
 
@@ -41,7 +39,7 @@ if the number of hours the candidates have offered...
 - ...is more than the budget, the ML has to make a choice and give a justification, following fairness
   rules of UCL hiring before we will make an offer.
 
-#### 6. CONTRACTING
+#### 5. CONTRACTING
 
 Staffings will follow up with those applicants who were made an offer.
 
@@ -55,6 +53,6 @@ TODO: Check the actual dates
 - For contracts starting in term 1: end August, end of reading week, end of January 
 - For contracts starting in term 2: end November, end of reading week, week 1 of term 3 (i.e. after Easter)
 
-#### 7. MENTORING
+#### 6. MENTORING
 ML are in charge of TAs and will need to mentor them as issues come up.
 
