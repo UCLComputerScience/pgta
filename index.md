@@ -7,6 +7,7 @@ need Postgraduate Teaching Assistants (PGTA).
 PGTAs may be Research Students (PhD) or Research Associates (RA).
 
 ### Key dates
+
 |   Date   | Deadline                                                                                         |
 |:--------:|:-------------------------------------------------------------------------------------------------| 
 | 01/07/22 | Module leader request deadline (all terms)                                                       |
