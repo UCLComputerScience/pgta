@@ -20,13 +20,12 @@ MLs will hear back from Tobias directly if the request is approved or if adjustm
 
 #### 3. ADVERTISING
 
-Positions will directly be advertised online at [TBC]() for a period of no less than 15 work days.
+Positions will directly be advertised online [here](https://tinyurl.com/mm69m93w) for a period of no less than 15 work days.
 This URL will be circulated to all PhD students and RA and is publicly visible. You may share with those eligible.
 
 #### 4. EXPRESSION OF INTEREST
 
-Candidates will express their interest by filling a form at [TBC](), saying which module they want to cover, for how
-many hours and optionally why.
+Candidates will express their interest by filling a [form](https://forms.gle/vqfNfGuxjxzaK9no6), stating which module they want to cover, for how many hours and optionally why.
 
 #### 5. SELECTION
 
