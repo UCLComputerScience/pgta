@@ -1,5 +1,13 @@
 ## HR information for module leaders and PGTs
 
+- [Confirming appointments](#confirming-appointments)
+- [Right to work](#right-to-work)
+- [Contract & FTE](#contract--fte)
+- [Marking in term 3](#marking-in-term-3)
+- [Changes to contract hours (FTE)](#changes-to-pgta-contract-hours)
+- [End of contract](#end-of-contract)
+- [CS HR Sharepoint](#cs-hr-sharepoint)
+
 ### Confirming appointments
 
 Under no circumstances should Module leads/supervisors contact PhDs directly to appointment them to modules, without
@@ -33,13 +41,14 @@ process a one off payment for the PGTA for the agreed marking hours. The PGTA mu
 team once the marking is complete. The Staffing team will verify with the Teaching & Learning team to ensure the marks
 have been received before making payment.
 
-### Changes to FTE
+### Changes to PGTA contract hours
+
+You should avoid changing PGTAs' hours once they have been allocated.
 
 #### Decreases in FTE
 
-You should avoid changing PGTAs' hours once they have been allocated. If a PGTA has their hours' allocation reduced the
-staffing team must be informed immediately, so they can make the necessary changes to the contract and avoid the PGTA
-being overpaid.
+If a PGTA has their hours' allocation reduced the staffing team must be informed immediately, so they can make the
+necessary changes to the contract and avoid the PGTA being overpaid.
 
 #### Increases in FTE
 
@@ -52,7 +61,7 @@ staffing that they have been allocated more hours and this will be verified by t
 
 A PGTA will remain on our records at the end of their working period on 0%FTE, unless a resignation form is submitted.
 
-## CS HR Sharepoint
+### CS HR Sharepoint
 
 This information will be reiterated in the recruitment email that will go out to all PHD students and is available on
 the [CS HR SharePoint](https://liveuclac.sharepoint.com/sites/ComputerScienceIntranet/SitePages/HR-and-Staffing.aspx).
