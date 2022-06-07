@@ -43,9 +43,9 @@ if the number of hours the candidates have offered...
 
 Staffings will follow up with those applicants who were made an offer.
 
-No PGTA must work, ever, ever, ever, until the required documents have been provided to the Staffings Team, checked and approved.
-All employees, including PGTAs, must present their Right To Work (RTW) before the start of their contract and cannot commence work until the original has been verified. PGTAs will not be paid if they attempt to work before they have submitted their (right-to-work) RTW checks.
-It is the ML's responsibility to ensure that "their" PGTA have been properly recruited and that all PGTA's work with CS HR to complete all RTW checks
+It is the Mls responsibility to ensure that all PGTA working with them have been properly recruited, compliant with UK Government legislation, before they are assigned any duty.
+TA must present their Right To Work (RTW) before the start of their contract and cannot commence work until the original has been verified by the Staffings team.
+PGTAs will not be paid if they attempt to work before they have submitted their RTW.
 
 Contracts will only be started or amended after the following dates, changes requested between these dates will be held to the next date:
 
