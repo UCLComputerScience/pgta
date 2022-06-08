@@ -1,6 +1,6 @@
 ## Information for Module Leaders
 
-TL;DR: Module leads have to [request PGTAs for 2022/23](https://forms.gle/X311EkXpwZkkgWwX7).
+TL;DR: Module leads have to [request](https://forms.gle/X311EkXpwZkkgWwX7) PGTAs for 2022/23.
 
 ### Steps
 
