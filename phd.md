@@ -1,6 +1,6 @@
-## Information for PGTAs (PhD candidates)
+## The PGTA Process for Reserach Students
 
-TL;DR: All CS Research Students asked to contribute 40 hours to the [listed TA jobs]([https://tinyurl.com/dk4dzfmx](https://forms.gle/RZSDJfEy5A9AnPyn7)) by [filling the form](https://forms.gle/6Jnsu8v9Z3jc7ohWA).
+**TL;DR: All CS Research Students are asked to contribute 40 hours to the [advertised](https://forms.gle/RZSDJfEy5A9AnPyn7) by filling the [form](https://forms.gle/6Jnsu8v9Z3jc7ohWA)**.
 
 ### Steps
 
@@ -15,10 +15,9 @@ Matching TAs and modules proceeds as follows:
 
 Check the [announced vacancies](https://tinyurl.com/dk4dzfmx).
 Vacancies will remain open for at least 15 days.
-
-To apply, please complet the [application form](https://forms.gle/RZSDJfEy5A9AnPyn7).
-
 More info about each module is available at the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
+
+To apply, please complet theis [form](https://forms.gle/RZSDJfEy5A9AnPyn7).
 
 Each CS Research Student is being asked to contribute 40 hours total in each academic year to a COMP or IEP module.
 Undergraduate modules are a priority, and need your help the most, which is recognised by our *Teaching Assistant Award* (see below).
@@ -29,11 +28,11 @@ For those on a Tier-4 visa, where it is an additional 20 hours/week limit.
 
 #### 2) Get an offer
 
-We (not the Module Lead) will inform applicants if they were considered within no more than 20 work days after the vacancy was published.
+The Department (not the Module Lead) will inform applicants if they were considered within no more than 20 work days after the vacancy was published.
 
 #### 3) Get a contract
 
-Applicants will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
+Accepoted applicants will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
 
 To start, applicants will need to fill a separate second [form](https://forms.gle/mi45XNWa8SHKc24B9) with further details.
 This needs only to be done once by every individual applicant per year.
@@ -63,11 +62,8 @@ Also, PGTA must in no circumstances work before the contract is completed and th
 
 ### Contract changes
 Changing PGTA hours once they have been allocated is to be avoided.
-
-If PGTA have their hours' allocation reduced, the Staffing team must be informed immediately, so they can make the necessary changes to the contract and avoid the PGTA being overpaid.
-
-Any increases to PGTA FTE allocation will be made once a term only at the end of the contract.
-The PGTA must inform Tobias that they have been allocated more hours who will pick this up with Staffings.
+PGTA cannot change their hours.
+If a PGTA thinks they have worked more or less hours than agreed, they should talk to their ML.
 
 ### Payment
 The compensation is £18.4/h and £22.84/h for lead positions on Y1/Y2 modules.
