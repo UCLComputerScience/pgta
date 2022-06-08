@@ -1,9 +1,6 @@
 ## Information for Module Leaders
 
-### TL;DR
-Module leads have to [request PGTAs for 2022/23](https://forms.gle/X311EkXpwZkkgWwX7).
-
-New module leads may wish to read the [guidance for calculating total PGTA hours](hours.html).
+TL;DR: Module leads have to [request PGTAs for 2022/23](https://forms.gle/X311EkXpwZkkgWwX7).
 
 ### Steps
 
@@ -11,8 +8,7 @@ New module leads may wish to read the [guidance for calculating total PGTA hours
 
 Module leads (ML) make requests for PGTA positions [here](https://forms.gle/X311EkXpwZkkgWwX7) by 1/7/2022, CoB for each of their module(s), even Term 2 and 3.
 
-It is no longer possible for MLs to nominate somebody for a position in this online form or in any other way.
-UCL recruitment rules require all posts to be advertised.
+New module leads may wish to read the [guidance for calculating total PGTA hours](hours.html).
 
 #### 2. BUDGETING
 
@@ -24,6 +20,9 @@ Positions will directly be advertised online [here](https://tinyurl.com/mm69m93w
 This URL will be circulated to all PhD students and RA and is publicly visible.
 MLs may share with those eligible, also outside UCL.
 Candidates can express their interest by filling a [form](https://forms.gle/vqfNfGuxjxzaK9no6), stating which module they want to cover, for how many hours and optionally why.
+
+It is no longer possible for MLs to nominate somebody for a position in this online form or in any other way.
+UCL recruitment rules require all posts to be advertised.
 
 #### 4. SELECTION
 
