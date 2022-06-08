@@ -10,14 +10,16 @@ PGTA can be Research students (intructions [here](/phd.html)) or Research Associ
 
 ### Key dates
 
-|   Date   | Deadline                                                                                         |
-|:--------:|:-------------------------------------------------------------------------------------------------| 
-| 01/07/22 | Module leader request deadline (all terms)                                                       |
-| 04/07/22 | PGTA applications open (all terms)                                                               |
-| 15/07/22 | PGTA applications close                                                                          |
-| 12/08/22 | Applicants confirmed and RTW and all HR forms received for Term 1 PGTA                           |
-|   TBC    | Applicants confirmed and RTW and all HR forms received for Term 2 PGTA                           |
-| 11/11/22 | [Changes to agreed TA hours/contract]({{ site.baseurl }}/hr.html#changes-to-pgta-contract-hours) |
-| 12/01/23 | [Changes to agreed TA hours/contract]({{ site.baseurl }}/hr.html#changes-to-pgta-contract-hours) |
-| 17/02/23 | [Changes to agreed TA hours/contract]({{ site.baseurl }}/hr.html#changes-to-pgta-contract-hours) |
-| 28/04/23 | [Changes to agreed TA hours/contract]({{ site.baseurl }}/hr.html#changes-to-pgta-contract-hours) |
+|   Date   | Deadline                                                                                      |
+|:--------:|:----------------------------------------------------------------------------------------------| 
+| 01/07/22 | Module leader request deadline (all terms)                                                    |
+| 04/07/22 | PGTA applications open (all terms)                                                            |
+| 15/07/22 | PGTA applications close                                                                       |
+| 12/08/22 | All paperwork received by HR for Term 1 PGTA contracts to be in place for the start of term 1 |
+| 26/09/22 | All term 1 contracts in place for candidates that met the paperwork deadline.                 |
+| 11/11/22 | Changes to agreed TA hours/contract submitted to HR                                           |
+| 11/11/22 | All paperwork received by HR for Term 2 PGTA contracts to be in place for the start of term 2 |
+| 09/01/23 | All term 2 contracts in place for candidates that met the paperwork deadline.                 |
+| 12/01/23 | Changes to agreed TA hours/contract submitted to HR                                           |
+| 17/02/23 | Changes to agreed TA hours/contract submitted to HR                                           |
+| 28/04/23 | Changes to agreed TA hours/contract submitted to HR                                           |
