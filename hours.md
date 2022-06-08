@@ -9,7 +9,7 @@ the tasks have been split into:
 
 - **Teaching**: labs, practicals
     - Calculate the total hours for a module. This may be over more than one term.
-    - Add 50% to the total hours for preparation. **TODO: Is this correct?**
+    - Add 50% to the total hours for preparation.
 - **Support**: Moodle support, mandatory passive lecture/lab attendance, creating/modifying teaching materials
     - This may be regular e.g. 2 hours a week for 10 weeks = 20 hours; or a total sum e.g. port the coursework from
       Matlab to Python = 50 hours
@@ -30,8 +30,6 @@ the tasks have been split into:
 Number of TAs: 2
 
 **Total requested:  2 x 80 = 160 hours**
-
-**TODO: is prep 50%?**
 
 ### Example 2: Postgraduate module with 30 students, tutorial, coursework and exam marking
 
