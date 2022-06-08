@@ -1,6 +1,6 @@
 ## PGTA Process for Reserach Students
 
-**TL;DR: All CS Research Students are asked to contribute 40 hours to the [advertised](https://forms.gle/RZSDJfEy5A9AnPyn7) by filling the [form](https://forms.gle/6Jnsu8v9Z3jc7ohWA)**.
+**TL;DR: All CS Research Students are asked to contribute 40 hours to the [advertised](https://forms.gle/RZSDJfEy5A9AnPyn7) by applying using [this](https://forms.gle/DAMEZXiiwoX3nsJn9) form and, once accepted, this [form](https://forms.gle/mi45XNWa8SHKc24B9)**.
 
 ### Steps
 
@@ -17,7 +17,7 @@ Check the [announced vacancies](https://tinyurl.com/dk4dzfmx).
 Vacancies will remain open for at least 15 days.
 More info about each module is available at the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
 
-To apply, please complet theis [form](https://forms.gle/RZSDJfEy5A9AnPyn7).
+To apply, please complet theis [form](https://forms.gle/DAMEZXiiwoX3nsJn9).
 
 Each CS Research Student is being asked to contribute 40 hours total in each academic year to a COMP or IEP module.
 Undergraduate modules are a priority, and need your help the most, which is recognised by our *Teaching Assistant Award* (see below).
