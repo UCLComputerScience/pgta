@@ -4,7 +4,9 @@
 Process and guidance for Computer Science (CS) or eligible IEP modules, in any term of the coming academic year, that
 need Postgraduate Teaching Assistants (PGTA).
 
-PGTAs may be Research Students (PhD) or Research Associates (RA).
+Module leaders (ML) please see instructions [here](/ml.phd).
+
+PGTA can be Research students (intructions [here](/phd.html)) or Research Associates (instructions [here](/ra.html)).
 
 ### Key dates
 
