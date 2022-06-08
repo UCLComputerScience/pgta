@@ -43,6 +43,6 @@ ii) the Intro to CS TA'ing session that will take place virtually at a date TBA.
 
 ### Why?
 
-It might be surprising to RA that they have to apply for work they can be contractually asked to perform.
+It might be surprising to RA that they have to apply for work they can be contractually asked to perform anyway.
 Please consider how this matters for fairness if, e.g. one RA and one PhD student, or two RA, were to compete over a single position both must put in an application which both must be compared according to UCLs hiring standards.
 
