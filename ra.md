@@ -43,7 +43,6 @@ ii) the Intro to CS TA'ing session that will take place virtually at a date TBA.
 
 ### Why?
 
-It might be surprising to RA that they have to apply, while at the same time they are contractually required to do that.
-Please consider how this matters for fairness if, e.g. one RA and one PhD student were to compete over a single position both must put in an application which both must be compared according to UCLs hiring standards.
-RA need to do it so they can be compared to non-RA.
+It might be surprising to RA that they have to apply for work they can be contractually asked to perform.
+Please consider how this matters for fairness if, e.g. one RA and one PhD student, or two RA, were to compete over a single position both must put in an application which both must be compared according to UCLs hiring standards.
 
