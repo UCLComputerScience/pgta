@@ -1,9 +1,7 @@
-## Information for PGTAs - Research Associates (RA)
+## PGTA process for Research Associates (RA)
 
-### TL;DR:
-
-All RAs are asked to contribute 40 hours of teaching to the [TA jobs listed here](https://tinyurl.com/mm69m93w)
-by [filling the form here](https://forms.gle/DAMEZXiiwoX3nsJn9).
+**TL;DR: All RAs are asked to contribute 40 hours of teaching to the modules listed [here](https://tinyurl.com/mm69m93w)
+by filling the [form](https://forms.gle/DAMEZXiiwoX3nsJn9).**
 
 ### Process steps
 
@@ -12,7 +10,9 @@ You are expected to get involved and make things better for our younger Computer
 
 Matching TAs and modules proceeds as follows:
 
-#### 1) APPLY
+------
+
+#### 1) Apply
 
 Check the [announced vacancies](https://tinyurl.com/mm69m93w).
 Vacancies will remain open for at least 15 days.
@@ -24,11 +24,13 @@ More info about each module see the [module catalgue](https://www.ucl.ac.uk/modu
 Each RA is being asked to contribute 40 TA hours total per academic year.
 Undergraduate modules are a priority, and need your help the most.
 
-#### 2) GET AN OFFER
+#### 2) Get an offer
 
 We (not the Module Lead) will inform you if your application was considered within no more than 20 work days after the vacancy was published.
 
-#### 3) QUALIFY
+Under no circumstances should Module Leads contact applicants or vice versa directly to appoint them to modules, without following the steps above.
+
+#### 3) Qualify
 
 You are required to attend (attendance recorded!)
 
@@ -39,10 +41,7 @@ i) a three-hour Arena One Introductory Gateway Workshop ([schedule and registrat
 
 ii) the Intro to CS TA'ing session that will take place virtually at a date TBA.
 
-### PROCESS CHANGES
-
-Under no circumstances should Module Leads contact applicants or vice versa directly to appoint them to modules, without
-following the steps above.
+### Why?
 
 It might be surprising to RA that they have to apply, while at the same time they are contractually required to do that.
 Please consider how this matters for fairness if, e.g. one RA and one PhD student were to compete over a single position both must put in an application which both must be compared according to UCLs hiring standards.
