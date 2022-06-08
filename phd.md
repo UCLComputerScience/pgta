@@ -32,7 +32,9 @@ The Department (not the Module Lead) will inform applicants if they were conside
 
 #### 3) Get a contract
 
-Accepoted applicants will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
+PGTAs are employed as members of staff on short-term contracts.
+
+Accepted applicants will need to provide the Staffings Team with the required documents, including the Right-to-work (RTW) information.
 
 To start, applicants will need to fill a separate second [form](https://forms.gle/mi45XNWa8SHKc24B9) with further details.
 This needs only to be done once by every individual applicant per year.
@@ -71,7 +73,8 @@ The contract will run across the entire academic year, with pro-rata monthly pay
 You also benefit from annual leave paid as a lump sum at the end of your studies.
 For more information on the conditions, [see here](http://www.ucl.ac.uk/hr/docs/post_grad_ta_scheme.php).
 
-The TA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term dates. i.e. if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week period, however the PGTA may be required to work some of those hours, outside of term time in preparation for the module but their total work must not exceed their allocated hours.
+The TA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term dates. 
+I.e., if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week period, however the PGTA may be required to work some of those hours, outside of term time in preparation for the module but their total work must not exceed their allocated hours.
 
 PGTAs who work across more than one term will have their FTE calculated from separately for each term.
 
@@ -79,7 +82,7 @@ A PGTA will remain on our records at the end of their working period on 0%FTE, u
 
 There is no timesheet system like Dovico anymore.
 
-### RECOGNITION
+### Recognition
 We award three prizes of £250 each to our best TAs, and a further four prizes of £50 each for honorable mentions.
 These prizes aim to recognise those who have made an exceptional contribution to our teaching provision - by contributing a significant number of hours, mostly in support of our UG modules where need is higher, and receiving praises for their engagement and teaching quality by Module Leads.
 To identify candidates, but also to understand what needs improvement, we will monitor
@@ -88,3 +91,13 @@ To identify candidates, but also to understand what needs improvement, we will m
 - ii) the quantity of teaching a TA performs; and
 - iii) a TAs coverage of undergrad modules.
 
+Optionally a PGTA may wish to apply for a [Higher Education Authority (HEA) Associate Fellowhip](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena/arena-fellowship) award.
+
+
+### Further information
+
+Further guidance on the PGTA role can also be found at:
+
+- [UCL PGTA Code of Practice](www.ucl.ac.uk/human-resources/postgraduate-teaching-assistant-code-practice)
+- [UCL Arena for PGTAs](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena/ucl-arena-pgtas)
+- [Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub)
