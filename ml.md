@@ -1,8 +1,12 @@
 ## PGTA process for Module Leaders
 
-TL;DR: Module leads have to [request](https://forms.gle/X311EkXpwZkkgWwX7) PGTAs for 2022/23.
+**TL;DR: Module leads have to [request](https://forms.gle/X311EkXpwZkkgWwX7) PGTAs for 2022/23.**
 
 ### Steps
+
+Please follow the steps below to benefit from teaching assistants for your module:
+
+-------
 
 #### 1. Requesting
 
@@ -20,7 +24,8 @@ MLs will hear back from Tobias if the request is approved or if adjustments are 
 #### 3. Advertising
 
 Positions will be advertised online [here](https://tinyurl.com/mm69m93w) for a period of no less than 15 work days.
-This URL will be circulated to all PhD students and RA and is publicly visible.
+
+This link will be circulated to all PhD students and RA and is publicly visible.
 MLs may share with those eligible, also outside UCL.
 Candidates can express their interest by filling a [form](https://forms.gle/vqfNfGuxjxzaK9no6), stating which module they want to cover, for how many hours and optionally why.
 
