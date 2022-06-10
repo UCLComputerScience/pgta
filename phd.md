@@ -75,18 +75,12 @@ they have worked more or less hours than agreed, they should talk to their ML.
 
 ### Payment
 
-UCL PGTAs are recruited at Grade 6, spine point 21, £15.66/hr however PGTAs teaching on a Computer Science module
-attract a market supplement of spine point 28 £18.81/hr for first time PGTAs and spine point 36, £23.32 for returning
-PGTAs, the following year. Hourly rates are listed at the current 2021-2022 UCL rates and may be subject to change -
-UCL Salary Scales. You also benefit from annual leave paid as a lump sum at the end of your
-studies. For more information on the conditions, see [here](http://www.ucl.ac.uk/hr/docs/post_grad_ta_scheme.php).
+UCL PGTAs are recruited at Grade 6, spine point 21, £15.66/hr however PGTAs teaching on a Computer Science module attract a market supplement of spine point 28 £18.81/hr for first time PGTAs and spine point 36, £23.32 for returning PGTAs, the following year (hourly rates are listed at the current 2021-2022 UCL rates and may be subject to change - UCL Salary Scales).
+You also benefit from annual leave paid as lump sum at the end of your studies.. For more information on the conditions, see [here](http://www.ucl.ac.uk/hr/docs/post_grad_ta_scheme.php).
 
-The TA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term
-dates. I.e., if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week
-period, however the PGTA may be required to work some of those hours, outside of term time in preparation for the module
-but their total work must not exceed their allocated hours.
+The TA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term dates. i.e. if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week period, however the PGTA may be required to work some of those hours, outside of term time in preparation for the module but their total work must not exceed their allocated hours.
 
-PGTAs who work across more than one term will have their FTE calculated from separately for each term.
+PGTAs who work across more than one term will have their FTE calculated across both terms i.e. from September to March.
 
 A PGTA will remain on our records at the end of their working period on 0%FTE, unless a resignation form is submitted.
 
