@@ -1,6 +1,6 @@
-## PGTA process for Research Associates (RA)
+## PGTA process for Research Fellows (RF)
 
-**TL;DR: All RAs are asked to contribute 40 hours of teaching to the modules listed [here](https://tinyurl.com/mm69m93w)
+**TL;DR: All RFs are asked to contribute 40 hours of teaching to the modules listed [here](https://tinyurl.com/mm69m93w)
 by filling the [form](https://forms.gle/DAMEZXiiwoX3nsJn9).**
 
 ### Process steps
@@ -17,16 +17,16 @@ Matching TAs and modules proceeds as follows:
 Check the [announced vacancies](https://tinyurl.com/mm69m93w).
 Vacancies will remain open for at least 15 days.
 
-To apply, plese fill the [form](https://forms.gle/DAMEZXiiwoX3nsJn9).
+To apply, please fill the [form](https://forms.gle/DAMEZXiiwoX3nsJn9).
 
-More info about each module see the [module catalgue](https://www.ucl.ac.uk/module-catalogue/).
+More info about each module see the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
 
-Each RA is being asked to contribute 40 TA hours total per academic year.
+Each RF is being asked to contribute 40 TA hours total per academic year.
 Undergraduate modules are a priority, and need your help the most.
 
 #### 2) Get an offer
 
-We (not the Module Lead) will inform you if your application was considered within no more than 20 work days after the vacancy was published.
+Tobias (not the Module Lead) will inform you if your application was considered within no more than 20 work days after the vacancy was published.
 
 Under no circumstances should Module Leads contact applicants or vice versa directly to appoint them to modules, without following the steps above.
 
@@ -43,6 +43,5 @@ ii) the Intro to CS TA'ing session that will take place virtually at a date TBA.
 
 ### Why?
 
-It might be surprising to RA that they have to apply for work they can be contractually asked to perform anyway.
-Please consider how this matters for fairness if, e.g. one RA and one PhD student, or two RA, were to compete over a single position both must put in an application which both must be compared according to UCLs hiring standards.
-
+It might be surprising to an RF that they have to apply for PGTA work as this is an expected part of their duties.
+We need to consider a fair recruitment practice for all. if, e.g. there is more than one applicant for a single position they must be considered in accordance with UCL’s fair recruitment policy.
