@@ -20,6 +20,6 @@ PGTA can be Research Students (intructions [here](/phd.html)) or Research Fellow
 | 11/11/22 | Changes to agreed TA hours/contract submitted to HR                                           |
 | 11/11/22 | All paperwork received by HR for Term 2 PGTA contracts to be in place for the start of term 2 |
 | 09/01/23 | All term 2 contracts in place for candidates that met the paperwork deadline.                 |
-| 12/01/23 | Changes to agreed TA hours/contract submitted to HR                                           |
-| 17/02/23 | Changes to agreed TA hours/contract submitted to HR                                           |
-| 28/04/23 | Changes to agreed TA hours/contract submitted to HR                                           |
+| 12/01/23 | Changes to agreed TA hours/contract submitted                                           |
+| 17/02/23 | Changes to agreed TA hours/contract submitted                                           |
+| 28/04/23 | Changes to agreed TA hours/contract submitted                                           |
