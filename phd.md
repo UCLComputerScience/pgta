@@ -1,7 +1,7 @@
 ## PGTA Process for Research Students
 
 **TL;DR: All CS Research Students are asked to contribute 40 hours to
-the [advertised](https://forms.gle/RZSDJfEy5A9AnPyn7) by applying using [this](https://forms.gle/DAMEZXiiwoX3nsJn9) form
+the [advertised](https://forms.gle/RZSDJfEy5A9AnPyn7) MODULES by applying using [this](https://forms.gle/DAMEZXiiwoX3nsJn9) form
 and, once accepted, this [form](https://forms.gle/mi45XNWa8SHKc24B9)**.
 
 ### Steps
