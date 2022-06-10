@@ -15,7 +15,7 @@ Matching TAs and modules proceeds as follows:
 
 #### 1) Apply
 
-Check the [announced vacancies](https://tinyurl.com/dk4dzfmx). Vacancies will remain open for at least 15 days. More
+Check the [announced vacancies](https://tinyurl.com/mm69m93w). Vacancies will remain open for at least 15 days. More
 info about each module is available at the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
 
 To apply, please complete theis [form](https://forms.gle/DAMEZXiiwoX3nsJn9).
