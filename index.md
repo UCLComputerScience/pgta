@@ -6,7 +6,7 @@ need Postgraduate Teaching Assistants (PGTA).
 
 Module leaders (ML) please see instructions [here](/ml.phd).
 
-PGTA can be Research students (intructions [here](/phd.html)) or Research Associates (instructions [here](/ra.html)).
+PGTA can be Research Students (intructions [here](/phd.html)) or Research Fellows (instructions [here](/ra.html)).
 
 ### Key dates
 
