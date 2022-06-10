@@ -36,7 +36,7 @@ after the vacancy was published.
 
 PGTAs are employed as members of staff on short-term contracts.
 
-Accepted applicants will need to provide the Staffings Team with the required documents, including the Right-to-work (
+Accepted applicants will need to provide CSHR with the required documents, including the Right-to-work (
 RTW) information.
 
 To start, applicants will need to fill a separate second [form](https://forms.gle/mi45XNWa8SHKc24B9) with further
