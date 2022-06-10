@@ -66,7 +66,7 @@ following the steps above.
 
 PGTA applicants will not be paid if they attempt to work before they have submitted their RTW.
 
-Also, PGTA must in no circumstances work before the contract is completed and the Staffing Teams tells you to do so.
+Also, a PGTA must in no circumstances work before the contract is requested and the CSHR team tells you to do so.
 
 ### Contract changes
 
@@ -75,8 +75,10 @@ they have worked more or less hours than agreed, they should talk to their ML.
 
 ### Payment
 
-The compensation is £18.4/h and £22.84/h for lead positions on Y1/Y2 modules. The contract will run across the entire
-academic year, with pro-rata monthly payments. You also benefit from annual leave paid as a lump sum at the end of your
+UCL PGTAs are recruited at Grade 6, spine point 21, £15.66/hr however PGTAs teaching on a Computer Science module
+attract a market supplement of spine point 28 £18.81/hr for first time PGTAs and spine point 36, £23.32 for returning
+PGTAs, the following year. Hourly rates are listed at the current 2021-2022 UCL rates and may be subject to change -
+UCL Salary Scales. You also benefit from annual leave paid as a lump sum at the end of your
 studies. For more information on the conditions, [see here](http://www.ucl.ac.uk/hr/docs/post_grad_ta_scheme.php).
 
 The TA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term
