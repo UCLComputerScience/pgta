@@ -21,8 +21,7 @@ info about each module is available at the [module catalogue](https://www.ucl.ac
 To apply, please complete theis [form](https://forms.gle/DAMEZXiiwoX3nsJn9).
 
 Each CS Research Student is being asked to contribute 40 hours total in each academic year to a COMP or IEP module.
-Undergraduate modules are a priority, and need your help the most, which is recognised by our *Teaching Assistant
-Award* (see below).
+Undergraduate modules are a priority, and need your help the most.
 
 More than 40 hrs is great, but check with your PhD advisor. PGTA cannot work more than 180 hours/year or 6 hours/week.
 For those on a Tier-4 visa, where it is an additional 20 hours/week limit.
