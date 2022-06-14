@@ -4,9 +4,9 @@
 Process and guidance for Computer Science (CS) or eligible IEP modules, in any term of the coming academic year, that
 need Postgraduate Teaching Assistants (PGTA).
 
-Module leaders (ML) please see instructions [here](/ml.phd).
+Module leaders (ML) please see instructions [here](https://uclcomputerscience.github.io/pgta/ml.html).
 
-PGTA can be Research Students (intructions [here](/phd.html)) or Research Fellows (instructions [here](/ra.html)).
+PGTA can be Research Students (intructions [here](https://uclcomputerscience.github.io/pgta/phd.html)) or Research Fellows (instructions [here](https://uclcomputerscience.github.io/pgta/ra.html)).
 
 ### Key dates
 
