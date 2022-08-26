@@ -15,17 +15,15 @@ with [UCL policy](https://www.ucl.ac.uk/human-resources/internships-work-experie
 ## Process for 2022-23
 
 1. Please email X with **all** the following details to get the intern ad listed:
+  - Module code
+  - How many of your current approved hours that have not been filled by PGTAs that you wish to use for interns
+  - Description of the role (make sure there are no assessment related activities!)
+  - Description of the skills/experience needed by the candidates
+  - Expected time commitment eg 2 hours per week, 10 weeks of term 1, total 20 hours
+  - Start and end date (particularly if these differ to the term start/end dates)
 
-- Module code
-- How many of your current approved hours that have not been filled by PGTAs that you wish to use for interns
-- Description of the role (make sure there are no assessment related activities!)
-- Description of the skills/experience needed by the candidates
-- Expected time commitment eg 2 hours per week, 10 weeks of term 1, total 20 hours
-- Start and end date (particularly if these differ to the term start/end dates)
-
-If you already have one or more candidates that you have agreed to offer the internship to, please provide their names,
-email addresses, and the total hours (per candidate).
-
+    If you already have one or more candidates that you have agreed to offer the internship to, please provide their names,
+    email addresses, and the total hours (per candidate).
 2. Internship ads will
    be [advertised here](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8).
 3. New applications will be emailed to you, usually the day they are received. Please contact the applicant(s). If you
