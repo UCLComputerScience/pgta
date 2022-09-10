@@ -35,9 +35,10 @@ Each role shows:
 
 - the module code and name
 - email address for the module leader
-- the specific skills and knowledge required
+- any skills and knowledge required
 - the role duties
-- start and end date; and expected hours
+- start and end date (or academic term)
+- expected hours
 
 Typical roles are likely to include:
 
@@ -54,8 +55,7 @@ account**
 
 ## Who can apply?
 
-You must be a current UCL student. The scheme is open to final year undergraduates, and those on MSc programmes.
-> TODO: Check which years can apply! Should MSc use the PGTA route instead?
+You must be a current UCL student. The scheme is open to second and third year undergraduates, and those on MSc programmes.
 
 You need to be eligible to work in the UK during the period of the internship. If you are on a visa, your visa must
 cover the full duration of the internship. UCL is unable to issue a visa for this scheme.
@@ -74,9 +74,7 @@ The hours required for each role are shown in the internship vacancy list.
 
 Internships need to be taken outside of the timetabled course requirements and students will need to comply with
 any [relevant visa regulations](https://www.ucl.ac.uk/students/immigration-and-visas/working-uk/working-during-your-studies)
-. UCL CS recommends that full-time undergraduate students do not work for more than 6 hours a week during term time.
-
-> TODO: check the hours they can work. Here says 20 h per week! https://www.ucl.ac.uk/careers/sites/careers/files/ucl_careers_internships_toolkit_for_ucl_students_-_dec_2019_-_accessible_sort_of.pdf
+.
 
 ## Pay
 
