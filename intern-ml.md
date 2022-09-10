@@ -26,7 +26,7 @@ with [UCL policy](https://www.ucl.ac.uk/human-resources/internships-work-experie
       with:
         - name(s)
         - email address(es)
-        - total hours (per candidate)
+        - total hours (for each candidate)
         - term (or start/end date if not term dates)
         - name and email of the module leader who will act as their manager (unless it is you)
     - **NB**: they can't start work until they are registered with Unitemps and their right to work has been verified.
