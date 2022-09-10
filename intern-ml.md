@@ -15,7 +15,7 @@ with [UCL policy](https://www.ucl.ac.uk/human-resources/internships-work-experie
 ## Process for 2022-23
 
 1. To advertise a role complete
-   the [form here](https://docs.google.com/forms/d/1s0zw_9DtYyd1TamFYZTxj4_--R54pKeWlNtnIYHQj7E/edit).
+   the [form here](https://docs.google.com/forms/d/1s0zw_9DtYyd1TamFYZTxj4_--R54pKeWlNtnIYHQj7E).
 2. To employ interns without advertising, i.e. if you already have Y2/Y3 undergrads or current MSc students you have
    agreed the role with, **go to step 4**.
 3. Internship ads
