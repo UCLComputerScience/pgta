@@ -9,6 +9,8 @@ Some teaching support roles may be suitable for undergraduate internships. Pleas
 with [UCL policy](https://www.ucl.ac.uk/human-resources/internships-work-experience-and-volunteering-policy#definitions)
 .
 
+Information for undergraduate students is [listed separately here]().
+
 ### Process for 2022-23
 
 1. To advertise a role complete
