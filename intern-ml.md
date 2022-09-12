@@ -15,7 +15,7 @@ Information for undergraduate students is [listed separately here](https://uclco
 
 1. To advertise a role complete
    the [form here](https://docs.google.com/forms/d/1s0zw_9DtYyd1TamFYZTxj4_--R54pKeWlNtnIYHQj7E).
-2. To employ interns without advertising, i.e. if you already have Y2/Y3 undergrads or current MSc students you have
+2. To employ interns without advertising, i.e. if you already have Y2+ undergraduate students you have
    agreed the role with, **go to step 4**.
 3. Internship ads
    are [advertised here](https://docs.google.com/spreadsheets/d/1i-dtPKUHxlW93iTH4jn-ZN5wU8cUdoKnFMJ-PunvSy8).
