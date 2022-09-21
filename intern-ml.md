@@ -14,7 +14,7 @@ Information for undergraduate students is [listed separately here](https://uclco
 ### Process for 2022-23
 
 1. To advertise a role complete
-   the [form here](https://docs.google.com/forms/d/1s0zw_9DtYyd1TamFYZTxj4_--R54pKeWlNtnIYHQj7E).
+   the [form here](https://forms.gle/GHNz3vYx1y2zVY7y5).
 2. To employ interns without advertising, i.e. if you already have Y2+ undergraduate students you have
    agreed the role with, **go to step 4**.
 3. Internship ads
