@@ -46,11 +46,12 @@ the original has been verified.
 
 #### 4) Qualify
 
-PGTA are required to attend a three-hour Arena One Introductory Gateway
-Workshop [schedule and registration](http://www.ucl.ac.uk/arena/one).
+PGTA are required to attend a three-hour Introductory Gateway
+Workshop [schedule and registration](https://www.ucl.ac.uk/teaching-learning/professional-development/arena-one/gateway-workshops)
+.
 
 - Attendees will be paid at the standard hourly rate.
-- You can TA before attending the Arena One Workshop. Simply just attend that at the earliest available date this year.
+- You can TA before attending the Gateway Workshop. Simply just attend that at the earliest available date this year.
 - This only needs to be done once, ever.
 
 -----------
@@ -72,11 +73,13 @@ they have worked more or less hours than agreed, they should talk to their ML.
 ### Payment
 
 The PGTA starting salary is paid at Grade 6, spine point 21, salary £30,696 pro rata with a market supplement of £6,200
-pro rata for first your first year of teaching rising to £13,800 pro rata thereafter. You will also increment a spine
-point each year of service as a PGTA.
+pro rata for first your first year of teaching rising to £13,800 pro rata thereafter.
+The [2022-23 salary scale](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/22_23ucl_non-clinical_grade_structure_with_spinal_points.pdf)
+is here. You will also increment a spine point each year of service as a PGTA.
 
 You also benefit from annual leave paid as lump sum at the end of your studies. For more information on the conditions,
-see [here](http://www.ucl.ac.uk/hr/docs/post_grad_ta_scheme.php).
+see [HR and finance advice for PGTAs here](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/home/getting-started-pgta-ucl)
+.
 
 The TA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term
 dates. i.e. if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week
