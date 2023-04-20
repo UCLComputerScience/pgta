@@ -66,8 +66,9 @@ to the next date:
     - end of Reading week,
     - week 1 of term 3 (i.e. after Easter)
 
-Contract changes are to be avoided. If a ML would like to change the hours for a PGTA, they have to contact Tobias. PGTA
-cannot request to change their hours, not with Tobias and not with HR.
+##### Contract changes
+Contract changes are to be avoided. If a ML would like to change the hours for a PGTA, they have to contact [Sarah Sanders](mailto:csc.postgradta@ucl.ac.uk). PGTA
+cannot request to change their hours, neither with Sarah nor with HR.
 
 Any **increases** to PGTA FTE allocation will be made at set points in the academic year (see above
 and [key dates](/index#key-dates)).
