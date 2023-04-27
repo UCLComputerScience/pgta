@@ -1,22 +1,26 @@
 ## How to calculate PGTA hours for a module
 
-The following provides some typical examples as guidance. Your module may differ from the examples.
+The following provides some typical examples as guidance. Your module may differ from the examples given.
 
-There is no change to previous years' guidance. This is aimed at staff new to requesting TA hours.
+This is aimed at staff new to requesting TA hours.
 
-You only enter the total hours and number of roles on the PGTA request form. However, for the purposes of this guidance
-the tasks have been split into:
+### Teaching delivery
 
-- **Teaching**: labs, practicals
-    - Calculate the total hours for a module. This may be over more than one term.
-    - Add 50% to the total hours for preparation.
-- **Support**: Moodle support, mandatory passive lecture/lab attendance, creating/modifying teaching materials
-    - This may be regular e.g. 2 hours a week for 10 weeks = 20 hours; or a total sum e.g. port the coursework from
-      Matlab to Python = 50 hours
-- **Marking**: marking, second marking, and marking preparation for coursework and exams
-    - Add hours based on the number of students. 20 mins per student per coursework is typical. Exam marking may take slightly longer. So if 50 students
-      with 2 coursework and 1 exam then total = 50 hours.
-    - The hours should include marking preparation, marking and any moderation.
+This refers to the work required during the term (or period) the module is taught.
+
+Consider scheduled sessions (e.g. labs, practicals, tutorials, student project team meetings) as well as support work (
+Moodle support, office hours, modifying materials).
+
+For scheduled session, include the time for attending the relevant classes as well as preparation time.
+
+### Marking
+
+This includes marking, second marking, and marking preparation for in-class tests, coursework and exams.
+
+Add hours based on the number of students. 20 mins per student per coursework is typical. Exam marking may take slightly
+longer. The hours should include marking preparation, marking and any moderation.
+
+Split the marking into that which occurs during module delivery and term 3 exam marking.
 
 ### Example 1: Undergraduate Y3 module with 100 students, labs, coursework and exam
 
@@ -51,7 +55,8 @@ Number of TAs: 1
 | Teaching  |     27      | 9 weeks only (no tutorial in final week), 1 x 2 hour tutorial per week = 18. Preparation = 50% x 18 = 9. |
 | Support   |     10      | 1 hour per week on average over 10 weeks, Moodle queries.                                                |
 | Marking   |     50      | TA marks 1 coursework plus exam for 50 students so 50 * 1 hour.                                          |
-| **Total** |   **87**    |                                                                                                          |
+| **Total** |   **
+87**    |                                                                                                          |
 
 Number of TAs: 4
 
@@ -64,13 +69,14 @@ Number of TAs: 4
 | Teaching  |     30      | 10 weeks, 1 x 2 hour lab per week = 20. Preparation = 50% x 20 = 10. |
 | Support   |     20      | 2 hours per student drop in support sessions                         |
 | Marking   |      0      | All marking done by Module Leader.                                   |
-| **Total** |   **50**    |           
+| **Total** |   **50**    |
 
 Total number of TAs to support labs: 2
 
-1 x TA required to maintain the bespoke auto-grading system = 20 hours. 
+1 x TA required to maintain the bespoke auto-grading system = 20 hours.
 
 **Total requested:**
-  - 1 x 20 = 20 hours
-  - 2 x 50 = 100 hours
-  - **= 220 hours**
+
+- 1 x 20 = 20 hours
+- 2 x 50 = 100 hours
+- **= 220 hours**

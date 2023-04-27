@@ -1,12 +1,20 @@
 ## PGTA process for Research Fellows (RF)
 
-**TL;DR: All RFs are asked to contribute 40 hours of teaching to the modules listed [here](https://tinyurl.com/mm69m93w)
-by filling the [form](https://forms.gle/DAMEZXiiwoX3nsJn9).**
+**TL;DR: All RFs are asked to contribute 40 hours of teaching to the modules listed [here]() (TBC for 23/24)
+by filling the [form]() (TBC for 23/24).**
+
+### 2022-23 forms
+
+Do not use the following links for 2023-24 vacancies. These will be removed in August 2023 at the end of the 2022-23
+academic year.
+
+- [Vacancies](https://tinyurl.com/mm69m93w)
+- [Application form](https://forms.gle/DAMEZXiiwoX3nsJn9)
 
 ### Process steps
 
-Contribution to teaching (TAing) is considered an integral part of your work at UCL, as covered by your work contract.
-You are expected to get involved and make things better for our younger Computer Scientists!
+Contribution to teaching (TAing) is considered an integral part of your work at UCL. You are expected to get involved
+and make things better for our student Computer Scientists!
 
 Matching TAs and modules proceeds as follows:
 
@@ -14,34 +22,39 @@ Matching TAs and modules proceeds as follows:
 
 #### 1) Apply
 
-Check the [announced vacancies](https://tinyurl.com/mm69m93w).
-Vacancies will remain open for at least 15 days.
+Check the [announced vacancies]() (TBC for 23/24).
 
-To apply, please fill the [form](https://forms.gle/DAMEZXiiwoX3nsJn9).
+To apply, please fill the [form]() (TBC for 23/24).
 
 More info about each module see the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
 
-Each RF is being asked to contribute 40 TA hours total per academic year.
-Undergraduate modules are a priority, and need your help the most.
+To check the scheduled classes see the [UCL timetable](https://timetable.ucl.ac.uk/tt/homePage.do). Use the Custom
+Timetable option and change the year to the next academic year (see top right of the screen).
+
+Each RF is being asked to contribute 40 TA hours total per academic year. Undergraduate modules are a priority, and need
+your help the most.
 
 #### 2) Get an offer
 
-Tobias (not the Module Lead) will inform you if your application was considered within no more than 20 work days after the vacancy was published.
+Sarah Sanders, rather than the Module Leader, will inform you if your application was considered.
 
-Under no circumstances should Module Leads contact applicants or vice versa directly to appoint them to modules, without following the steps above.
+Under no circumstances should Module Leads contact applicants or vice versa directly to appoint them to modules, without
+following the steps above.
 
 #### 3) Qualify
 
-You are required to attend (attendance recorded!)
+You are required to attend (attendance recorded!) a three-hour Arena One Introductory Gateway
+Workshop ([schedule and registration](http://www.ucl.ac.uk/arena/one)).
 
-i) a three-hour Arena One Introductory Gateway Workshop ([schedule and registration](http://www.ucl.ac.uk/arena/one)).
-- Attendees will be paid at the standard hourly rate.
-- You can TA before attending the Arena One Workshop, just attend it at the earliest available date this year.
 - You only need to do this once ever.
-
-ii) the Intro to CS TA'ing session that will take place virtually at a date TBA.
+- Attendees will be paid at the standard hourly rate.
+- You can TA before attending the Arena One Workshop, just attend it at the earliest available date.
 
 ### Why?
 
-It might be surprising to an RF that they have to apply for PGTA work as this is an expected part of their duties.
-We need to consider a fair recruitment practice for all. if, e.g. there is more than one applicant for a single position they must be considered in accordance with UCL’s fair recruitment policy.
+It might be surprising to an RF that they have to apply for PGTA work as this is an expected part of their duties. We
+need to consider a fair recruitment practice for all. If, for example, there is more than one applicant for a single
+position they must be considered in accordance with UCL’s fair recruitment policy.
+
+
+

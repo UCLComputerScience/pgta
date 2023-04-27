@@ -10,13 +10,13 @@ docs:
 - title: Home
   url: ./index.html
 
-- title: Information for Module Leads (ML)
+- title: Information for Module Leads
   url: ./ml.html
 
-- title: Information for PGTAs (RA)
+- title: Information for Research Fellows
   url: ./ra.html
 
-- title: Information for PGTAs (PhD)
+- title: Information for Research (PhD) Students
   url: ./phd.html
 
 - title: Contact
