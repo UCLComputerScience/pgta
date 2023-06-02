@@ -1,14 +1,15 @@
 ## PGTA process for Module Leaders
 
-**Summary**
+### Summary
 
 1. Module leads (ML) submit a [request](https://forms.gle/2X7t65QdJykbVgzP8) PGTAs by 20th May 2023.**
-2. Sarah confirms allocated budgets to MLs.
-3. Roles advertised for 15 days.
-4. Applicants sent to MLs to select. MLs confirm applicant decisions to Sarah.
-5. Applicant details sent to HR to start right to work check and contract process.
-6. Contract changes should be avoided. Unavoidable changes are made periodically.
-7. MLs are responsible for mentoring/guiding TAs.
+2. Sarah confirms budget to MLs. _Expected mid-June_.
+3. Roles advertised for 15 days. Applications then sent to MLs.
+4. MLs confirm applicant decisions to Sarah.
+5. Contracting process starts. **A PGTA cannot work until their right to work (RTW) evidence has been verified by a
+   member of UCL staff, and we cannot verify RTW retrospectively, by law. PGTAs will not be paid if they attempt to work
+   before they have submitted their RTW.**
+6. Avoid contract changes. Increases require budget approval, contact Sarah.
 
 ### Steps
 
