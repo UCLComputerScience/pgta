@@ -1,7 +1,4 @@
-## PGTA process for Research Fellows (RF)
-
-**TL;DR: All RFs are asked to contribute 40 hours of teaching to the modules listed [here]() (TBC for 23/24)
-by filling the [form]() (TBC for 23/24).**
+## PGTA process for Research Fellows (RF) or Research Associates (RA)
 
 ### 2022-23 forms
 
@@ -10,6 +7,10 @@ academic year.
 
 - [Vacancies](https://tinyurl.com/mm69m93w)
 - [Application form](https://forms.gle/DAMEZXiiwoX3nsJn9)
+
+### Summary
+**All RF/RAs are asked to contribute 40 hours of teaching to the modules listed [here]() (link TBC)
+by filling the [form]() (link TBC).**
 
 ### Process steps
 
