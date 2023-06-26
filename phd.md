@@ -10,6 +10,7 @@ academic year.
 - [HR information form](https://forms.gle/mi45XNWa8SHKc24B9)
 
 ### Summary
+
 **All CS Research Students are asked to contribute a minimum of 40 hours**
 
 1. Check the [advertised vacancies]() (link TBC)
@@ -134,14 +135,16 @@ There is no timesheet system like Dovico anymore.
 
 ### Further information
 
-Further guidance on the PGTA role, training and case studies at UCL can be found on
-the [UCL PGTA Hub](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/).
+[Neil's Common Room YouTube channel](https://www.youtube.com/@neilscommonroom7313/playlists) has some great <5 minute
+video tips from Neil Sutherland in the School of Management specifically for TAs.
 
-There is also
-a [UCL PGTA Code of Practice](https://www.ucl.ac.uk/human-resources/policies/2021/nov/postgraduate-teaching-assistant-code-practice)
+[UCL PGTA Hub](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/) is a centralised UCL resource for guidance on the
+PGTA role, training and case studies at UCL.
 
-Beyond UCL guidance is available on
-the [Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub). Optionally, a PGTA may wish to
-apply for
+[UCL PGTA Code of Practice](https://www.ucl.ac.uk/human-resources/policies/2021/nov/postgraduate-teaching-assistant-code-practice)
+outlines UCLs expectations of the PGTA experience.
+
+[Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub) has guidance aimed nationally as
+higher education teaching. Optionally, a PGTA may also wish to apply for
 a [Higher Education Authority (HEA) Associate Fellowhip](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena/arena-fellowship)
 award.
