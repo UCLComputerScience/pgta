@@ -1,8 +1,6 @@
-## PGTA Process for Research Students
+## PGTA Process for UCL Research Students, UCL Research Assistants and External applicants
 
 ### Summary
-
-**All CS Research Students are asked to contribute a minimum of 40 hours**
 
 1. Check
    the [advertised vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec) (
@@ -16,10 +14,10 @@
 retrospectively, by law.** Failure to present your RTW, or to apply through the proper channels will result in you not
 being paid.
 
-### Steps
-
-Teaching is an integral part of your training at UCL, as explained in your offer letter. You are expected to get
+**All UCL CS Research Students are asked to contribute a minimum of 40 hours**. Teaching is an integral part of your training at UCL, as explained in your offer letter. You are expected to get
 involved and make things better for our Computer Scientists!
+
+### Steps
 
 Matching TAs and modules proceeds as follows:
 

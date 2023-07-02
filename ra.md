@@ -1,4 +1,4 @@
-## PGTA process for Research Fellows (RF) or Research Associates (RA)
+## PGTA process for UCL Research Fellows (RF) / Research Associates (RA)
 
 ### Summary
 **All RF/RAs are asked to contribute 40 hours of teaching to the [2023-24 PGTA vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec) by filling the [form](https://forms.gle/iuLJndrJVjdbUF5Q7).**
