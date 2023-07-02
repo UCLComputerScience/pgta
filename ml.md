@@ -61,17 +61,8 @@ Government legislation, before they are assigned any duty. TA must present their
 their contract and cannot commence work until the original has been verified by a member of UCL staff. PGTAs will not be
 paid if they attempt to work before they have submitted their RTW.
 
-Contracts will only be started or amended after the following dates, changes requested between these dates will be held
-to the next date:
-
-- For contracts starting in term 1:
-    - end August,
-    - end of Reading Week,
-    - end of January
-- For contracts starting in term 2:
-    - end November,
-    - end of Reading week,
-    - week 1 of term 3 (i.e. after Easter)
+Contract changes and late requests will be processed periodically, typically just after reading week and just after the
+start of a term.
 
 ##### Contract changes
 
@@ -82,8 +73,8 @@ If a ML would like to change the hours for a PGTA, they have to contact [Sarah S
 
 A PGTA should not request to change their hours, neither with Sarah nor with HR.
 
-Any increases to PGTA FTE allocation will be made at set points in the academic year (see above
-and [key dates](/index)).
+Any increases to PGTA FTE allocation will be made at set points in the academic year (see above and [key dates](/index))
+.
 
 #### 6. Mentoring
 
