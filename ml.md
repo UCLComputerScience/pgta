@@ -33,17 +33,16 @@ MLs will hear back from Sarah Sanders if the request is approved or if adjustmen
 
 #### 3. Advertising
 
-Positions will be advertised online [here](https://tinyurl.com/mm69m93w) for a period of no less than 15 work days.
+Positions will be advertised online for a period of no less than 10 work days.
 
 This link will be circulated to all PhD students and RA and is publicly visible. MLs may share with those eligible, also
 outside UCL.
 
-It is no longer possible for MLs to nominate somebody for a position in this online form or in any other way. UCL
-requires all posts to be advertised to ensure fair and transparent recruitment practice has taken place.
+UCL requires all posts to be advertised to ensure fair and transparent recruitment practice has taken place.
 
 #### 4. Selection
 
-After 15 work days have passed, the ML is emailed the list of applicants.
+After 10 working days have passed, the ML is emailed the list of applicants.
 
 We have three cases: if the number of hours the candidates have offered...
 
@@ -55,9 +54,9 @@ We have three cases: if the number of hours the candidates have offered...
 
 #### 5. Contracting
 
-CSHR will follow up with those applicants who were made an offer.
+[CSHR](mailto:computerscience.hr@ucl.ac.uk) will follow up with those applicants who were made an offer.
 
-It is the ML's responsibility to ensure that all PGTA working with them have been properly recruited, compliant with UK
+It is the ML's responsibility to ensure that all PGTAs working with them have been properly recruited, compliant with UK
 Government legislation, before they are assigned any duty. TA must present their Right To Work (RTW) before the start of
 their contract and cannot commence work until the original has been verified by a member of UCL staff. PGTAs will not be
 paid if they attempt to work before they have submitted their RTW.
@@ -84,7 +83,7 @@ If a ML would like to change the hours for a PGTA, they have to contact [Sarah S
 A PGTA should not request to change their hours, neither with Sarah nor with HR.
 
 Any increases to PGTA FTE allocation will be made at set points in the academic year (see above
-and [key dates](/index#key-dates)).
+and [key dates](/index)).
 
 #### 6. Mentoring
 

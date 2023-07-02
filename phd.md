@@ -1,33 +1,25 @@
 ## PGTA Process for Research Students
 
-### 2022-23 forms
-
-Do not use the following links for 2023-24 vacancies. These will be removed in August 2023 at the end of the 2022-23
-academic year.
-
-- [Vacancies](https://tinyurl.com/mm69m93w)
-- [Application form](https://forms.gle/DAMEZXiiwoX3nsJn9)
-- [HR information form](https://forms.gle/mi45XNWa8SHKc24B9)
-
 ### Summary
 
 **All CS Research Students are asked to contribute a minimum of 40 hours**
 
-1. Check the [advertised vacancies]() (link TBC)
-2. Apply using [this form]() (link TBC)
-3. If successful, complete this [form](https://forms.gle/mi45XNWa8SHKc24B9).
-4. Attend
+1. Check
+   the [advertised vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec) (
+   warning: not supported on Safari)
+2. Apply using [this form](https://forms.gle/iuLJndrJVjdbUF5Q7)
+3. Attend
    an [Introductory Gateway Workshop](https://www.ucl.ac.uk/teaching-learning/professional-development/arena-one/gateway-workshops)
-   (only if you have not already attended in a previous year).
+   . If you have attended in a previous year then you do not need to attend again.
 
-**You cannot work until your RTW evidence has been verified by a member of UCL staff and we cannot verify RTW
-retrospectively, by law. Failure to present your RTW, or to apply through the proper channels will result in you not
-being paid.**
+**You cannot work until your RTW evidence has been verified by a member of UCL staff, and we cannot verify RTW
+retrospectively, by law.** Failure to present your RTW, or to apply through the proper channels will result in you not
+being paid.
 
 ### Steps
 
 Teaching is an integral part of your training at UCL, as explained in your offer letter. You are expected to get
-involved and make things better for our younger Computer Scientists!
+involved and make things better for our Computer Scientists!
 
 Matching TAs and modules proceeds as follows:
 
@@ -35,14 +27,17 @@ Matching TAs and modules proceeds as follows:
 
 #### 1) Apply
 
-Each CS Research Student is asked to contribute a minimum of 40 hours and a maximum of 180 hours in each academic year
-to a COMP or IEP module. Undergraduate modules are a priority, and need your help the most. Note that:
+Each CS Research Student is asked to contribute a minimum of 40 hours and a maximum of 180 hours (average 6 hours per
+week) in each academic year to a COMP or IEP module. Undergraduate modules are a priority, and need your help the most.
+Note that:
 
 - Please check with your PhD advisor if you would like to work more than 40 hours.
 - A PGTA cannot work more than 180 hours/year or 6 hours/week.
 - For those on a Tier-4 visa, there is an additional 20 hours/week limit.
 
-Check the [announced vacancies]() (link TBC).
+Check
+the [announced vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec) (
+Safari not supported).
 
 More info about each module is available at the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
 
@@ -50,27 +45,27 @@ You are advised to check the module timetable to see when classes are scheduled 
 the [UCL timetable](https://timetable.ucl.ac.uk/tt/homePage.do). Use the Custom Timetable option and change the year to
 the next academic year (see top right of the screen).
 
-To apply, please complete this [form]() (link TBC).
+To apply, please complete this [form](https://forms.gle/iuLJndrJVjdbUF5Q7).
 
-All vacancies will be released on the same day. After 15 days all applications will be sent to the module leaders to
-review. Any applications received after the 15 days may still be considered but priority will be given to those
-submitted before the deadline.
+All vacancies will be released on the same day. After 10 working days all applications will be sent to the module
+leaders to review. Any applications received after the initial deadline may still be considered but priority will be
+given to those submitted before the deadline.
 
 #### 2) Get an offer
 
-The Department (not the Module Lead) will inform applicants if they were successful within no more than 20 working days
-after the vacancy was published.
+The [Departmental lead for PGTAs](mailto:csc.postgradta@ucl.ac.uk) will inform applicants if they were successful within no more than 20 working days after
+the vacancy was published.
 
 #### 3) Get a contract
 
 PGTAs are employed as members of staff on short-term contracts.
 
-Accepted applicants will need to provide CSHR with the required documents, including the Right-To-Work (RTW)
+Accepted applicants will need to provide [CSHR](mailto:computerscience.hr@ucl.ac.uk) with the required documents, including the Right-To-Work (RTW)
 information.
 
-CSHR will be in touch once your position is confirmed to onboard you.
+[CSHR](mailto:computerscience.hr@ucl.ac.uk) will be in touch once your position is confirmed to onboard you.
 
-You cannot work until your RTW evidence has been verified by a member of UCL staff and we cannot verify RTW
+You cannot work until your RTW evidence has been verified by a member of UCL staff, and we cannot verify RTW
 retrospectively, by law. Failure to present your RTW, or to apply through the proper channels will result in you not
 being paid.
 
@@ -95,14 +90,14 @@ completion/attendance) to <csc.postgradta@ucl.ac.uk>.
 Under no circumstances should Module Leads contact applicants, or vice versa, directly to appoint them to modules,
 without following the steps above.
 
-A PGTA must in no circumstances work before their RTW has been agreed; a contract is requested and the CSHR team tells
+A PGTA must in no circumstances work before their RTW has been agreed; a contract is requested and the [CSHR](mailto:computerscience.hr@ucl.ac.uk) team tells
 you to do so. You cannot be paid if you attempt to do so.
 
 ### Contract changes
 
 Changing PGTA hours once they have been allocated is to be avoided and PGTAs should not change their hours. If you think
 you will work more or fewer hours than agreed, you should talk to your ML in the first instance before changing hours.
-The ML will need to gain budget approval from Sarah Sanders before any increases can be authorised. Any reduction in
+The ML will need to gain budget approval from [Sarah Sanders](mailto:csc.postgradta@ucl.ac.uk) before any increases can be authorised. Any reduction in
 hours, could result in overpayment, which will be recalled by UCL.
 
 ### Payment
@@ -116,7 +111,7 @@ Computer Science rising to £13,800 pro rata thereafter.
 The [2023-24 salary scale is here](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/23_24ucl_non-clinical_grade_structure_with_spinal_points_feb-23_v2.pdf)
 .
 
-Please check your spine point and market supplement and notify CSHR if you believe it to be incorrect.
+Please check your spine point and market supplement and notify [CSHR](mailto:computerscience.hr@ucl.ac.uk) if you believe it to be incorrect.
 
 You also benefit from annual leave paid as lump sum at the end of your studies. For more information on the conditions,
 see [HR and finance advice for PGTAs here](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/home/getting-started-pgta-ucl)
