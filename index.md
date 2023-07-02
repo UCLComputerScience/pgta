@@ -5,7 +5,7 @@
 Process and guidance for Computer Science (CS) modules, in any term of the coming academic year, that need Postgraduate
 Teaching Assistants (PGTA).
 
-### Key dates 2023-24
+### Key dates
 
 |   Date   | Deadline                                                                               |
 |:--------:|:---------------------------------------------------------------------------------------|
