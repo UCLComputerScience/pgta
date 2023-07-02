@@ -5,6 +5,10 @@
 Process and guidance for Computer Science (CS) modules, in any term of the coming academic year, that need Postgraduate
 Teaching Assistants (PGTA).
 
+Anyone who meets the essential criteria for a role may apply; this includes UCL research students, research assistants
+and research fellow from any department; as well as external applicants. External applicants are typically, but not
+exclusively, research students from other London universities.
+
 ### Key dates
 
 |   Date   | Deadline                                                                               |
@@ -12,7 +16,7 @@ Teaching Assistants (PGTA).
 | 20/05/23 | Module leader budget request submission deadline. All modules for all terms.           |
 | 30/06/23 | Confirmation of budgets to module leaders. _Dependent on overall budget confirmation_. |
 | 03/07/23 | PGTA applications open (all terms).                                                    |
-| 14/07/23 | Round 1 applications dealine. Applications sent to module leaders.                     |
+| 14/07/23 | Round 1 applications deadline. Applications sent to module leaders.                    |
 | 11/08/23 | Term 1 PGTA applications close.                                                        |
 | 11/08/23 | All term 1 PGTA RTW and other paperwork to be received by CS HR.                       |
 | 11/08/23 | Suitable roles offered to undergraduates {Undergraduate teaching intern scheme}.       |
