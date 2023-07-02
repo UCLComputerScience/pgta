@@ -8,6 +8,10 @@
 Contribution to teaching (TAing) is considered an integral part of your work at UCL. You are expected to get involved
 and make things better for our student Computer Scientists!
 
+It might be surprising to an RF that they have to apply for PGTA work as this is an expected part of their duties. We
+need to consider a fair recruitment practice for all. If, for example, there is more than one applicant for a single
+position they must be considered in accordance with UCL’s fair recruitment policy.
+
 Matching TAs and modules proceeds as follows:
 
 ------
@@ -43,11 +47,7 @@ Workshop ([schedule and registration](http://www.ucl.ac.uk/arena/one)).
 - You can TA before attending the Arena One Workshop, just attend it at the earliest available date.
 - Email proof of completion to the [Departmental lead for PGTAs](mailto:csc.postgradta@ucl.ac.uk)
 
-### Why?
 
-It might be surprising to an RF that they have to apply for PGTA work as this is an expected part of their duties. We
-need to consider a fair recruitment practice for all. If, for example, there is more than one applicant for a single
-position they must be considered in accordance with UCL’s fair recruitment policy.
 
 
 
