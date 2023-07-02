@@ -2,14 +2,14 @@
 
 ### Summary
 
-1. Module leads (ML) submit a [request](https://forms.gle/2X7t65QdJykbVgzP8) PGTAs by 20th May 2023.**
-2. Sarah confirms budget to MLs. _Expected mid-June_.
-3. Roles advertised for 15 days. Applications then sent to MLs.
-4. MLs confirm applicant decisions to Sarah.
+1. Module leads (ML) submit a [request for 2023-24 PGTA](https://forms.gle/2X7t65QdJykbVgzP8).
+2. Sarah confirms budget to MLs.
+3. Roles advertised for 10 working days. Applications then sent to MLs.
+4. MLs confirm applicant decisions to [Sarah](mailto:sarah.sanders@ucl.ac.uk).
 5. Contracting process starts. **A PGTA cannot work until their right to work (RTW) evidence has been verified by a
-   member of UCL staff, and we cannot verify RTW retrospectively, by law. PGTAs will not be paid if they attempt to work
-   before they have submitted their RTW.**
-6. Avoid contract changes. Increases require budget approval, contact Sarah.
+   member of UCL staff, and we cannot verify RTW retrospectively, by law.** PGTAs will not be paid if they attempt to work
+   before they have submitted their RTW.
+6. Avoid contract changes. Increases require budget approval before the hours are incurred, contact [Sarah](mailto:sarah.sanders@ucl.ac.uk).
 
 ### Steps
 
@@ -19,10 +19,10 @@ Please follow the steps below to benefit from teaching assistants for your modul
 
 #### 1. Requesting
 
-Module leads (ML) make requests for PGTA positions [here](https://forms.gle/2X7t65QdJykbVgzP8) by 20/05/2023, CoB for
+Module leads (ML) make requests for PGTA positions [here](https://forms.gle/2X7t65QdJykbVgzP8) by 20/05/2023 for
 each of their module(s), even Term 2 and 3.
 
-New module leads should read the [guidance for calculating total PGTA hours](hours.html).
+New module leads should read the [guidance for calculating total PGTA hours](./hours.html).
 
 If multiple people co-teach a module it is assumed that a single consolidated request is submitted. If multiple requests
 are made, only the last one is considered.
