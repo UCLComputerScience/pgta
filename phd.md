@@ -106,7 +106,7 @@ service as a PGTA.
 You will also receive a market supplement of £6,200 pro rata for first your first year of teaching in the department of
 Computer Science rising to £13,800 pro rata thereafter.
 
-The [2023-24 salary scale is here](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/23_24ucl_non-clinical_grade_structure_with_spinal_points_feb-23_v2.pdf)
+The [2023-24 salary scale is here](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/2023-24_ucl_non-clinical_grade_structure_with_spinal_points_august_2023_update.pdf)
 .
 
 Please check your spine point and market supplement and notify [CSHR](mailto:computerscience.hr@ucl.ac.uk) if you believe it to be incorrect.
