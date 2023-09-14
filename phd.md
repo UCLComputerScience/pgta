@@ -14,9 +14,19 @@
 retrospectively, by law.** Failure to present your RTW, or to apply through the proper channels will result in you not
 being paid.
 
-**All UCL CS Research Students are asked to contribute a minimum of 40 hours**. Teaching is an integral part of your training at UCL, as explained in your offer letter. You are expected to get
-involved and make things better for our Computer Scientists!
+**All UCL CS Research Students are asked to contribute a minimum of 40 hours**. Teaching is an integral part of your
+training at UCL, as explained in your offer letter. You are expected to get involved and make things better for our
+Computer Scientists!
 
+### Eligibility
+
+All PGTAs must be resident in the UK and provide evidence of Right to Work (RTW) such as a passport (UK & Ireland) or
+UKVI share code.
+
+While we welcome external (i.e. not at UCL) applicants, please be aware
+that [UCL PGTA code of practice](https://www.ucl.ac.uk/human-resources/postgraduate-teaching-assistant-code-practice#Selection%20of%20Postgraduate%20Teaching%20Assistants)requires
+that we consider applicants from UCL first.
+ 
 ### Steps
 
 Matching TAs and modules proceeds as follows:
@@ -51,14 +61,15 @@ given to those submitted before the deadline.
 
 #### 2) Get an offer
 
-The [Departmental lead for PGTAs](mailto:csc.postgradta@ucl.ac.uk) will inform applicants if they were successful within no more than 20 working days after
-the vacancy was published.
+The [Departmental lead for PGTAs](mailto:csc.postgradta@ucl.ac.uk) will inform applicants if they were successful within
+no more than 20 working days after the vacancy was published.
 
 #### 3) Get a contract
 
 PGTAs are employed as members of staff on short-term contracts.
 
-Accepted applicants will need to provide [CSHR](mailto:computerscience.hr@ucl.ac.uk) with the required documents, including the Right-To-Work (RTW)
+Accepted applicants will need to provide [CSHR](mailto:computerscience.hr@ucl.ac.uk) with the required documents,
+including the Right-To-Work (RTW)
 information.
 
 [CSHR](mailto:computerscience.hr@ucl.ac.uk) will be in touch once your position is confirmed to onboard you.
@@ -88,15 +99,15 @@ completion/attendance) to <csc.postgradta@ucl.ac.uk>.
 Under no circumstances should Module Leads contact applicants, or vice versa, directly to appoint them to modules,
 without following the steps above.
 
-A PGTA must in no circumstances work before their RTW has been agreed; a contract is requested and the [CSHR](mailto:computerscience.hr@ucl.ac.uk) team tells
-you to do so. You cannot be paid if you attempt to do so.
+A PGTA must in no circumstances work before their RTW has been agreed; a contract is requested and
+the [CSHR](mailto:computerscience.hr@ucl.ac.uk) team tells you to do so. You cannot be paid if you attempt to do so.
 
 ### Contract changes
 
 Changing PGTA hours once they have been allocated is to be avoided and PGTAs should not change their hours. If you think
 you will work more or fewer hours than agreed, you should talk to your ML in the first instance before changing hours.
-The ML will need to gain budget approval from [Sarah Sanders](mailto:csc.postgradta@ucl.ac.uk) before any increases can be authorised. Any reduction in
-hours, could result in overpayment, which will be recalled by UCL.
+The ML will need to gain budget approval from [Sarah Sanders](mailto:csc.postgradta@ucl.ac.uk) before any increases can
+be authorised. Any reduction in hours, could result in overpayment, which will be recalled by UCL.
 
 ### Payment
 
@@ -109,7 +120,8 @@ Computer Science rising to £13,800 pro rata thereafter.
 The [2023-24 salary scale is here](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/2023-24_ucl_non-clinical_grade_structure_with_spinal_points_august_2023_update.pdf)
 .
 
-Please check your spine point and market supplement and notify [CSHR](mailto:computerscience.hr@ucl.ac.uk) if you believe it to be incorrect.
+Please check your spine point and market supplement and notify [CSHR](mailto:computerscience.hr@ucl.ac.uk) if you
+believe it to be incorrect.
 
 You also benefit from annual leave paid as lump sum at the end of your studies. For more information on the conditions,
 see [HR and finance advice for PGTAs here](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/home/getting-started-pgta-ucl)
