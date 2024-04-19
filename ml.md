@@ -6,7 +6,6 @@
    <details>
    <summary>Module budget request forms</summary>
    <ul>
-   <li><a href=''>COMP0009 Logic</a></li>
    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSeC4WdEqU6zGnzXSOpMLXdDfwz-P-cbSUlHezpGm4_V2ZEDBw/viewform?edit2=2_ABaOnudJE2CSaKSrX_W_dD6jmMjMHAjA0gRAFNOiH0H9-ogRFyUMGo17onwE2MVQRQg9X40'>BENG0095 Data Mining and Analysis</a></li>
    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSeC4WdEqU6zGnzXSOpMLXdDfwz-P-cbSUlHezpGm4_V2ZEDBw/viewform?edit2=2_ABaOnueOginOQ6CZSwUCuyPcotADKBYhDVlg86ZCeMim_BCvG4cezBJZNWCT4f70Yh9H2yo'>COMP0002_Haskell Principles of Programming</a></li>
    <li><a href='https://docs.google.com/forms/d/e/1FAIpQLSeC4WdEqU6zGnzXSOpMLXdDfwz-P-cbSUlHezpGm4_V2ZEDBw/viewform?edit2=2_ABaOnucYicEuJ6NuZOokTUhRRsx2501JhWUTRFSTTOcRG9EjYwm2AW2B3J_r--PnCkNw4a0'>COMP0002_C Principles of Programming</a></li>
