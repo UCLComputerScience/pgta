@@ -1,11 +1,10 @@
-## PGTA Process for UCL Research Students, UCL Research Assistants and External applicants
+## PGTA Process for UCL Research Students, UCL Research Assistants, UCL CS MSc Students and External applicants
 
 ### Summary
 
 1. Check
-   the [advertised vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec) (
-   warning: not supported on Safari)
-2. Apply using [this form](https://forms.gle/iuLJndrJVjdbUF5Q7)
+   the [advertised vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec)
+2. Apply using [this form]() TBC
 3. Attend
    an [Introductory Gateway Workshop](https://www.ucl.ac.uk/teaching-learning/professional-development/arena-one/gateway-workshops)
    . If you have attended in a previous year then you do not need to attend again.
@@ -18,15 +17,34 @@ being paid.
 training at UCL, as explained in your offer letter. You are expected to get involved and make things better for our
 Computer Scientists!
 
+<hr>
+
+In this section
+
+- [Restrictions for CS MSc applicants](#restrictions-for-cs-msc-applicants)
+- [Eligibility](#eligibility)
+- [Recruitment process (steps)](#steps)
+- [What is not permissible](#what-is-not-permissible)
+- [Contract changes](#contract-changes)
+- [Payment](#payment)
+- [Further information](#further-information)
+
+### Restrictions for CS MSc applicants
+
+MSc students from the department of Computer Science can apply for Term 2 roles where module leaders have indicated that
+they will consider MSc applicants (please check the vacancy list).
+
+MSc students can work for a maximum of 40 hours in total in Term 2.
+
 ### Eligibility
 
 All PGTAs must be resident in the UK and provide evidence of Right to Work (RTW) such as a passport (UK & Ireland) or
 UKVI share code.
 
-While we welcome external (i.e. not at UCL) applicants, please be aware
-that [UCL PGTA code of practice](https://www.ucl.ac.uk/human-resources/postgraduate-teaching-assistant-code-practice#Selection%20of%20Postgraduate%20Teaching%20Assistants)requires
-that we consider applicants from UCL first.
- 
+While we welcome external (i.e. not at UCL) applicants,
+the [UCL PGTA code of practice](https://www.ucl.ac.uk/human-resources/postgraduate-teaching-assistant-code-practice#Selection%20of%20Postgraduate%20Teaching%20Assistants)
+requires that we consider applicants from UCL first.
+
 ### Steps
 
 Matching TAs and modules proceeds as follows:
@@ -142,6 +160,8 @@ There is no timesheet system like Dovico anymore.
 
 [Neil's Common Room YouTube channel](https://www.youtube.com/@neilscommonroom7313/playlists) has some great <5 minute
 video tips from Neil Sutherland in the School of Management specifically for TAs.
+
+[UCL Arena for PGTAs](https://moodle.ucl.ac.uk/course/view.php?id=11905) PGTA training pathways and further information.
 
 [UCL PGTA Hub](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/) is a centralised UCL resource for guidance on the
 PGTA role, training and case studies at UCL.
