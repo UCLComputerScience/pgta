@@ -19,8 +19,7 @@ universities.
 
 ### Key dates (2023/24)
 
-Please submit actual hours for exam marking as soon as possible. Requests received after 27th May will be funded from
-the 2024/25 budget due to payroll cutoff.
+Please submit actual hours for exam marking as soon as possible after the work is complete.
 
 ### Key dates (2024/25)
 

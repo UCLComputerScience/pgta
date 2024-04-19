@@ -234,7 +234,7 @@ are made, only the last one is considered.
 
 #### 2. Budgeting
 
-MLs will hear back from Sarah Sanders if the request is approved or if adjustments are advised.
+MLs will hear back from <csc.postgradta@ucl.ac.uk> if the request is approved or if adjustments are advised.
 
 #### 3. Advertising
 
