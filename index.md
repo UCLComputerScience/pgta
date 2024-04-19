@@ -34,7 +34,7 @@ Please submit actual hours for exam marking as soon as possible after the work i
 | Sarah         | Consolidated list of RTW/Contract requests sent to CS HR	           |          | 22/07/24  |
 | Sarah         | PGTA Applications: Term 2. Email to MSc students for Term 2 roles.	 | 30/09/24 | 30/09/24  |
 | Applicants    | PGTA Applications: Term 2 roles	                                    | 15/05/24 | 30/10/24  |
-| Module leader | Confirm hires to csc.postgradta@ucl.ac.uk                           |          | 06/11/24  |
+| Module leader | Confirm Term 2 hires to csc.postgradta@ucl.ac.uk                    |          | 06/11/24  |
 | Sarah         | PGTA Term 2: Consolidated RTW/Contract requests sent to CS HR       |          | 11/11/24  |
 | Module leader | PGTA exam hours: Send actual hours to csc.postgradta@ucl.ac.uk      |          | 01/06/25  |
 
