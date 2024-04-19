@@ -1,4 +1,4 @@
-## PGTA Process for UCL Research Students, UCL Research Assistants, UCL CS MSc Students and External applicants
+## PGTA Process for UCL Research Students, UCL Research Assistants, UCL CS Masters students and External applicants
 
 ### Summary
 
@@ -27,9 +27,9 @@ In this section
 - [What is not permissible](#what-is-not-permissible)
 - [Contract changes](#contract-changes)
 - [Payment](#payment)
-- [Further information](#further-information)
+- [Training](#training)
 
-### Restrictions for CS MSc applicants
+### Restrictions for Computer Science Masters applicants
 
 MSc students from the department of Computer Science can apply for Term 2 roles where module leaders have indicated that
 they will consider MSc applicants (please check the vacancy list).
@@ -109,6 +109,8 @@ Workshop ([schedule and registration here](https://www.ucl.ac.uk/teaching-learni
 To receive payment for the workshop, please email evidence of completion (e.g. screenshot of the training record showing
 completion/attendance) to <csc.postgradta@ucl.ac.uk>.
 
+See [Training](#training) for information on optional training and guidance.
+
 
 -----------
 
@@ -152,24 +154,30 @@ but their total work must not exceed their allocated hours.
 
 PGTAs who work across more than one term will have their FTE calculated across both terms.
 
-A PGTA will remain on our records at the end of their working period on 0%FTE, unless a resignation form is submitted.
+A PGTA will remain on our records at the end of their working period on 0% FTE, unless a resignation form is submitted.
 
-There is no timesheet system like Dovico anymore.
+There is no timesheet system.
 
-### Further information
+### Training
 
-[Neil's Common Room YouTube channel](https://www.youtube.com/@neilscommonroom7313/playlists) has some great <5 minute
-video tips from Neil Sutherland in the School of Management specifically for TAs.
+As stated in the [Qualify](#4-qualify) section, all PGTAs must complete UCL's Arena for PGTAs Introductory Workshop (
+previously called Arena One).
 
-[UCL Arena for PGTAs](https://moodle.ucl.ac.uk/course/view.php?id=11905) PGTA training pathways and further information.
-
-[UCL PGTA Hub](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/) is a centralised UCL resource for guidance on the
-PGTA role, training and case studies at UCL.
-
-[UCL PGTA Code of Practice](https://www.ucl.ac.uk/human-resources/policies/2021/nov/postgraduate-teaching-assistant-code-practice)
-outlines UCLs expectations of the PGTA experience.
-
-[Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub) has guidance aimed nationally as
-higher education teaching. Optionally, a PGTA may also wish to apply for
-a [Higher Education Authority (HEA) Associate Fellowhip](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena/arena-fellowship)
+Optionally a TA may wish to apply for recognition of their TA skills by applying for
+a [Higher Education Authority (HEA) Associate Fellowship](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena/arena-fellowship)
 award.
+
+For module specific activities such as marking, supporting tutorials etc., please seek guidance from the module lead.
+
+Further guidance on the TA role can also be found at:
+
+- [UCL PGTA Code of Practice](http://www.ucl.ac.uk/human-resources/postgraduate-teaching-assistant-code-practice)
+- [Neil's Common Room YouTube channel](https://www.youtube.com/@neilscommonroom7313/playlists) has some great <5 minute
+  video tips from Neil Sutherland in the School of Management specifically for TAs.
+- [UCL Arena for PGTAs](https://moodle.ucl.ac.uk/course/view.php?id=11905) PGTA training pathways and further
+  information.
+- [UCL PGTA Hub](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/) is a centralised UCL resource for guidance on the
+  PGTA role, training and case studies at UCL.
+- [Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub) has guidance aimed nationally as
+  higher education teaching. 
+
