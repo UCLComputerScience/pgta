@@ -259,27 +259,33 @@ The ML notifies <csc.postgradta@ucl.ac.uk>:
 
 [CSHR](mailto:computerscience.hr@ucl.ac.uk) will follow up with those applicants who were made an offer.
 
-UCL policy is that it is the ML's responsibility to ensure that all PGTAs working with them have been properly
-recruited, compliant with UK
-Government legislation, before they are assigned any duty. TA must present their Right To Work (RTW) before the start of
+The module leader is considered as the hiring manager for PGTA and undergraduate interns.
+
+UCL policy is that it is the hiring manager's (ML's) responsibility to ensure that all PGTAs working with them have been
+properly recruited, compliant with UK Government legislation, before they are assigned any duty.
+
+In accordance
+with [UCL policy](https://www.ucl.ac.uk/human-resources/working-ucl/hr-services/immigration/procedure-right-work-checks-prevent-illegal-working-uk),
+a TA must present their Right To Work (RTW) before the start of
 their contract and cannot commence work until the original has been verified by a member of UCL staff. PGTAs will not be
-paid if they attempt to work before they have submitted their RTW.
+paid if they attempt to work before they have submitted their RTW. It is the ML's responsibility to ensure that anyone
+working on their module has been verified.
 
 ##### Contract changes
 
 Contract changes are to be avoided.
 
-If a ML would like to change the hours for a PGTA, they have to contact [Sarah Sanders](mailto:csc.postgradta@ucl.ac.uk)
+If a ML would like to change the hours for a PGTA, they have to contact [the teaching support coordinator (csc.postgradta@ucl.ac.uk)](mailto:csc.postgradta@ucl.ac.uk)
 .
 
-A PGTA should not request to change their hours, neither with Sarah nor with HR.
+A PGTA should not request to change their hours, neither with the teaching support coordinator nor with HR.
 
-Any increases to PGTA FTE allocation will be made at set points in the academic year (see [key dates](/index))
+Any increases to PGTA FTE allocation will be made at periodically during the academic year (see [key dates](./keydates.html))
 .
 
 #### 6. Mentoring
 
-ML are in charge of TAs and will need to mentor them as issues come up.
+MLs are responsible for TAs on their module and should provide appropriate guidance and mentoring.
 
 <hr>
 
@@ -302,8 +308,8 @@ The process to recruit interns is:
 
 1. To advertise a role to undergraduates, check the option in the budget request form and provide a role description (
    you can update this selection
-   after submission). Roles are then
-   automatically [listed here](https://script.google.com/macros/s/AKfycbxy3jRljUsf5ynnCYh8bpXG19pHqBldXhgrBYhocHMRLGI2aa0iO18SbsvHPSMQT4aH/exec).
+   after submission by using the form links at the top of this webpage). Roles are
+   automatically [listed here](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec?mode=ugti).
 2. Applications will be emailed to you, initially at the end of the 2-week advert process and thereafter typically the
    day they are received. Please contact the applicant(s).
     - If you decline their application, please tell them and give them a brief reason why not.
