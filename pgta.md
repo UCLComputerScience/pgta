@@ -1,33 +1,4 @@
-## PGTA Process for UCL Research Students, UCL Research Assistants, UCL CS Masters students and External applicants
-
-### Summary
-
-1. Check
-   the [advertised vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec?mode=pgta)
-2. Apply using [this form](https://forms.gle/FPm55u7NmGE89jga8)
-3. Attend
-   an [Introductory Gateway Workshop](https://www.ucl.ac.uk/teaching-learning/professional-development/arena-one/gateway-workshops)
-   . If you have attended in a previous year then you do not need to attend again.
-
-**You cannot work until your RTW evidence has been verified by a member of UCL staff, and we cannot verify RTW
-retrospectively, by law.** Failure to present your RTW, or to apply through the proper channels will result in you not
-being paid.
-
-**All UCL CS Research Students are asked to contribute a minimum of 40 hours**. Teaching is an integral part of your
-training at UCL, as explained in your offer letter. You are expected to get involved and make things better for our
-Computer Scientists!
-
-<hr>
-
-In this section:
-
-- [Eligibility](#eligibility)
-- [Recruitment process (steps)](#steps)
-- [What is not permissible](#what-is-not-permissible)
-- [Contract changes](#contract-changes)
-- [Payment](#payment)
-- [Training](#training)
-
+## Information for PGTAs
 
 ### Eligibility
 
@@ -38,129 +9,43 @@ While we welcome external (i.e. not at UCL) applicants,
 the [UCL PGTA code of practice](https://www.ucl.ac.uk/human-resources/postgraduate-teaching-assistant-code-practice#Selection%20of%20Postgraduate%20Teaching%20Assistants)
 requires that we consider applicants from UCL first.
 
-#### Restrictions for Computer Science Masters student applicants
+Computer Science MSc students are eligible to apply for specific Term 2 vacancies to a maximum of 40 hours.
 
-MSc students from the department of Computer Science can apply for Term 2 roles where module leaders have indicated that
-they will consider MSc applicants - please check the [MSc applicants vacancy list](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec?mode=msc).
+### Application and hiring process
 
-MSc students can work for a maximum of 40 hours in total in Term 2.
+1. Check the relevant vacancies and applying using the form listed on that page.
+2. Wait for the module leaders to contact you. Due to the volume of applications, in some instances you may not be
+   contacted.
+3. If successful, the module leader will advise you of such, and they will then contact the Teaching Support Coordinator
+   to confirm their decision. You may not hear anything further until shortly after the application closing date for
+   each term.
+4. Shortly after the application closing date for applications for each term, the Teaching Support Coordinator will
+   contact you with a summary of your hired hours and details of next steps.
+5. The Teaching Support Coordinator will then submit requests for all hired PGTAs to Computer Science Human Resources (
+   CS HR) who will begin the right to work (RTW) and contracting process. You must not start work until a member of the
+   CS HR team confirms to you that you may do so, this is a legal requirement.
+6. If not previously attended, book and attend a PGTA Gateway Workshop at your earliest convenience.
 
-### Steps
-
-Matching TAs and modules proceeds as follows:
-
------------
-
-#### 1) Apply
-
-Each CS Research Student is asked to contribute a minimum of 40 hours and a maximum of 180 hours (average 6 hours per
-week) in each academic year to a COMP or IEP module. Undergraduate modules are a priority, and need your help the most.
-Note that:
-
-- Please check with your PhD advisor if you would like to work more than 40 hours.
-- A PGTA cannot work more than 180 hours/year or 6 hours/week.
-- For those on a Tier-4 visa, there is an additional 20 hours/week limit.
-
-Check
-the [vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec).
-
-More info about each module is available in the [module catalogue](https://www.ucl.ac.uk/module-catalogue/).
-
-You are advised to check the module timetable to see when classes are scheduled using
-the [UCL timetable](https://timetable.ucl.ac.uk/tt/homePage.do). Use the Custom Timetable option and change the year to
-the next academic year (see top right of the screen).
-
-To apply, please complete this [form](https://forms.gle/1trseuvYNAHdjeeK9).
-
-All vacancies will be released on the same day. After 10 working days all applications will be sent to the module
-leaders to review. Any applications received after the initial deadline may still be considered but priority will be
-given to those submitted before the deadline.
-
-#### 2) Get an offer
-
-The [Departmental lead for PGTAs](mailto:csc.postgradta@ucl.ac.uk) will inform applicants if they were successful within
-no more than 20 working days after the vacancy was published.
-
-#### 3) Get a contract
-
-PGTAs are employed as members of staff on short-term contracts.
-
-Accepted applicants will need to provide [CSHR](mailto:computerscience.hr@ucl.ac.uk) with the required documents,
-including the Right-To-Work (RTW)
-information.
-
-[CSHR](mailto:computerscience.hr@ucl.ac.uk) will be in touch once your position is confirmed to onboard you.
-
-You cannot work until your RTW evidence has been verified by a member of UCL staff, and we cannot verify RTW
-retrospectively, by law. Failure to present your RTW, or to apply through the proper channels will result in you not
-being paid.
-
-#### 4) Qualify
-
-PGTA are required to attend a three-hour Introductory Gateway
-Workshop ([schedule and registration here](https://www.ucl.ac.uk/teaching-learning/professional-development/arena-one/gateway-workshops)
-).
-
-- This only needs to be done once, ever.
-- Attendees will be paid at the standard hourly rate.
-- You can TA before attending the Gateway Workshop. Attend a session at the earliest available date this year.
-
-To receive payment for the workshop, please email evidence of completion (e.g. screenshot of the training record showing
-completion/attendance) to <csc.postgradta@ucl.ac.uk>.
-
-See [Training](#training) for information on optional training and guidance.
-
-
------------
-
-### What is not permissible
-
-Under no circumstances should Module Leads contact applicants, or vice versa, directly to appoint them to modules,
-without following the steps above.
-
-A PGTA must in no circumstances work before their RTW has been agreed; a contract is requested and
-the [CSHR](mailto:computerscience.hr@ucl.ac.uk) team tells you to do so. You cannot be paid if you attempt to do so.
-
-### Contract changes
-
-Changing PGTA hours once they have been allocated is to be avoided and PGTAs should not change their hours. If you think
-you will work more or fewer hours than agreed, you should talk to your ML in the first instance before changing hours.
-The ML will need to gain budget approval from [Sarah Sanders](mailto:csc.postgradta@ucl.ac.uk) before any increases can
-be authorised. Any reduction in hours, could result in overpayment, which will be recalled by UCL.
-
-### Payment
-
+### Contracts and pay
 The PGTA starting salary is paid at Grade 6, spine point 21 pro rata. You will increment a spine point each year of
-service as a PGTA.
+service as a PGTA. UCL salary scales are available on the [UCL website](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales).
 
 You will also receive a market supplement of £6,200 pro rata for first your first year of teaching in the department of
 Computer Science rising to £13,800 pro rata thereafter.
 
-The [2023-24 salary scale is here](https://www.ucl.ac.uk/human-resources/sites/human_resources/files/2023-24_ucl_non-clinical_grade_structure_with_spinal_points_august_2023_update.pdf)
-.
-
-Please check your spine point and market supplement and notify [CSHR](mailto:computerscience.hr@ucl.ac.uk) if you
-believe it to be incorrect.
-
 You also benefit from annual leave paid as lump sum at the end of your studies. For more information on the conditions,
-see [HR and finance advice for PGTAs here](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/home/getting-started-pgta-ucl)
-.
+see HR and finance advice for PGTAs.
 
-The PGTA FTE will be determined by the total amount of hours worked, and will be calculated based upon the current term
-dates. i.e. if someone is allocated 100 hours and the term is 10 weeks their FTE will be calculated over the 10 week
-period, however the PGTA may be required to work some of those hours, outside of term time in preparation for the module
-but their total work must not exceed their allocated hours.
+For 2024-25 contracts are on a guaranteed minimum hours basis with the hours according to the first confirmation email
+you receive from the Teaching Support Coordinator. You will submit timesheets for the hours you have worked. If you are
+confirmed for subsequent modules and hours after the initial contract is requested, the contract will not be updated,
+you will simply claim the hours up to the revised maximum via timesheets.
 
-PGTAs who work across more than one term will have their FTE calculated across both terms.
+For queries related to timesheets, contracts, payroll and right to work contact <computerscience.hr@ucl.ac.uk>.
 
-A PGTA will remain on our records at the end of their working period on 0% FTE, unless a resignation form is submitted.
+### Further information
 
-There is no timesheet system.
-
-### Training
-
-As stated in the [Qualify](#4-qualify) section, all PGTAs must complete UCL's Arena for PGTAs Introductory Workshop (
-previously called Arena One).
+All PGTAs must complete the UCL Arena Gateway Workshop for PGTAs.
 
 Optionally a TA may wish to apply for recognition of their TA skills by applying for
 a [Higher Education Authority (HEA) Associate Fellowship](https://www.ucl.ac.uk/teaching-learning/professional-development/ucl-arena/arena-fellowship)
@@ -179,4 +64,3 @@ Further guidance on the TA role can also be found at:
   PGTA role, training and case studies at UCL.
 - [Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub) has guidance aimed nationally as
   higher education teaching. 
-

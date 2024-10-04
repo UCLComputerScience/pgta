@@ -1,5 +1,7 @@
 ## PGTA process for Module Leaders
 
+The section has been removed. Please refer to the departmental intranet pages.
+
 ### Summary
 
 1. Module leads (ML) submit a budget request form. Please select the link for your module:

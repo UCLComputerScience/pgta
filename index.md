@@ -1,13 +1,13 @@
-## UCL Computer Science Postgraduate Teaching Assistants (PGTAs) and Undergraduate Intern Teaching Support
+## UCL Computer Science Postgraduate Teaching Assistants (PGTAs)
 
-Process and guidance for Computer Science (CS) modules that need Postgraduate Teaching Assistants (PGTA). There is a
-separate route for Undergraduate Intern Teaching Support roles.
+This site is for PGTA applicants only and is accessible outside of UCL.
 
-Anyone who meets the essential criteria for a role may apply.
+Guidance for module leaders can be found within
+the [UCL Computer Science staff intranet pages](https://liveuclac.sharepoint.com/sites/CSteaching/SitePages/EDUCATION--PGTA-Support.aspx).
 
-| [PGTA applicants](./pgta.html)                                                                                                                                                        | [UG Intern applicants](./intern.html)                     |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|
-| UCL research student (PhD)<br>Research Assistant<br>Research Fellow<br>Research Associate<br>External applicant <sup>1</sup><br>Computer Science Masters student (restrictions apply) | UCL Computer Science undergraduate<br>in years 2, 3 and 4 |
+| [PGTA applicants](./pgta.html)                                                                                                                                                        | [UG Intern applicants](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec?mode=ugti) |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| UCL research student (PhD)<br>Research Assistant<br>Research Fellow<br>Research Associate<br>External applicant <sup>1</sup><br>Computer Science Masters student (restrictions apply) | UCL Computer Science undergraduate<br>in years 2, 3 and 4                                                                                            |
 
 <sup>1</sup> In line with
 the [UCL PGTA Code of Practice](https://www.ucl.ac.uk/human-resources/postgraduate-teaching-assistant-code-practice#Selection%20of%20Postgraduate%20Teaching%20Assistants),
