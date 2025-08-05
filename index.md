@@ -74,3 +74,11 @@ Further guidance on the TA role can also be found at:
   PGTA role, training and case studies at UCL.
 - [Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub) has guidance aimed nationally as
   higher education teaching. 
+
+
+### Contacts
+
+| Contact                                                                           |             Email              | Queries relating to...                             |
+|:----------------------------------------------------------------------------------|:------------------------------:|:---------------------------------------------------|
+| Sarah Sanders, Computer Science academic with responsibility for the PGTA process |   <csc.postgradta@ucl.ac.uk>   | Module leader requests. Budget. Application forms. |
+| UCL Computer Science Human Resources (CS HR)                                      | <computerscience.hr@ucl.ac.uk> | Contracts. Payroll. Right to work.                 |
