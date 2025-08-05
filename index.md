@@ -23,7 +23,11 @@ Key dates:
 - Deadline for Term 1 applications is 24/07/25
 - Deadline for Term 2 applications is 24/10/25
 
-1. Check the [relevant vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec?mode=pgta) and applying using the form on that site.
+Process:
+
+1. Check
+   the [relevant vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec?mode=pgta)
+   and applying using the form on that site.
 2. Wait for the module leaders to contact you. Due to the volume of applications, in some instances you may not be
    contacted.
 3. If successful, the module leader will advise you of such, and they will then contact the Teaching Support Coordinator
@@ -37,8 +41,10 @@ Key dates:
 6. If not previously attended, book and attend a PGTA Gateway Workshop at your earliest convenience.
 
 ### Contracts and pay
+
 The PGTA starting salary is paid at Grade 6, spine point 21 pro rata. You will increment a spine point each year of
-service as a PGTA. UCL salary scales are available on the [UCL website](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales).
+service as a PGTA. UCL salary scales are available on
+the [UCL website](https://www.ucl.ac.uk/human-resources/pay-benefits/salary-scales).
 
 You will also receive a market supplement of £6,200 pro rata for first your first year of teaching in the department of
 Computer Science rising to £13,800 pro rata thereafter.
@@ -73,8 +79,7 @@ Further guidance on the TA role can also be found at:
 - [UCL PGTA Hub](https://www.ucl.ac.uk/pg-teaching-opportunities-hub/) is a centralised UCL resource for guidance on the
   PGTA role, training and case studies at UCL.
 - [Higher Education Academy knowledge hub](https://www.advance-he.ac.uk/knowledge-hub) has guidance aimed nationally as
-  higher education teaching. 
-
+  higher education teaching.
 
 ### Contacts
 
