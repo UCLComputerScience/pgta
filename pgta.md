@@ -13,7 +13,12 @@ Computer Science MSc students are eligible to apply for specific Term 2 vacancie
 
 ### Application and hiring process
 
-1. Check the relevant vacancies and applying using the form listed on that page.
+Key dates:
+
+- Deadline for Term 1 applications is 24/07/25
+- Deadline for Term 2 applications is 24/10/25
+
+1. Check the [relevant vacancies](https://script.google.com/macros/s/AKfycbzz2en51FJDuL9udZgfhFb2NvQ4PmDpp4pU4Hn-b757eukx4Jqjhib_8PCaG49rBQBQFg/exec?mode=pgta) and applying using the form on that site.
 2. Wait for the module leaders to contact you. Due to the volume of applications, in some instances you may not be
    contacted.
 3. If successful, the module leader will advise you of such, and they will then contact the Teaching Support Coordinator
@@ -36,7 +41,7 @@ Computer Science rising to £13,800 pro rata thereafter.
 You also benefit from annual leave paid as lump sum at the end of your studies. For more information on the conditions,
 see HR and finance advice for PGTAs.
 
-For 2024-25 contracts are on a guaranteed minimum hours basis with the hours according to the first confirmation email
+For 2025-26 contracts are on a guaranteed minimum hours basis with the hours according to the first confirmation email
 you receive from the Teaching Support Coordinator. You will submit timesheets for the hours you have worked. If you are
 confirmed for subsequent modules and hours after the initial contract is requested, the contract will not be updated,
 you will simply claim the hours up to the revised maximum via timesheets.
